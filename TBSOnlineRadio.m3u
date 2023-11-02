@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/47798b7d-e52b-4f9a-851c-f88287336389/TBS-Info-2023-Zeno-FM.png",TBS Info
 http://stream.zeno.fm/qig2iqwqnsmuv
+#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/6b730091-ed25-4d1c-9374-3826be0b7555/TBS-Radio-2023-boxed.png",TBS Radio
+http://stream.laut.fm/tbs2003
+#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/040175e2-5c6e-4594-bad6-81b5bdd408f2/100-Jahre-Rundfunk.jpg",100 Jahre Rundfunk/100 Years of Broadcasting
+http://stream.laut.fm/100jahrerundfunk
+#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/7d149059-dd2c-4ad4-b097-604d2a23758a/TBS-100-Years-of-Radio-2023-SWR2-Archivradio.png",SWR2 Archivradio
+https://liveradio.swr.de/sw331ch/raka02/
+#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/aa70f755-5f13-404a-b92f-202b57a45acf/TBS-100-Years-of-Radio-2023-Deutschlandfunk.png",Deutschlandfunk
+https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
+#EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/720ce620-a584-46e3-a682-428d52937cad/TBS-100-Years-of-Radio-2023-BBC-Radio-4.png",BBC Radio 4
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_fourfm.m3u8
