@@ -5,9 +5,9 @@ https://streaming.nrjaudio.fm/ouj3jtnxeb5p
 https://stream.antenne.de/antenne/stream/mp3
 #EXTINF:-1 group-title="Germany" tvg-logo="",Antenne Bayern In the mix
 https://stream.antenne.de/in-the-mix/stream/mp3
-#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/fe/Bayern_1_2023.png",Bayern 1 Oberbayern
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/43/Bayern_1_2023.png",Bayern 1 Oberbayern
 https://mcdn.hf.br.de/br/hf/b1obb/master.m3u8
-#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/fe/Bayern_2_2023.png",Bayern 2
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/ec/Bayern_2_2023.png",Bayern 2
 https://mcdn.hf.br.de/br/hf/b2/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/fe/Bayern_3_2023.png",Bayern 3
 https://mcdn.hf.br.de/br/hf/b3/master.m3u8
