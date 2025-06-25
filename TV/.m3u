@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2f/Das_Erste_2015.png",Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/da/TVR_i_%282022-.n.v.%29.png",TVR Internaţional
-https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
