@@ -1,2 +1,2 @@
-# TBS Online Radio
-Here you can get the m3u from the TBS Online radio stations
+# Introducing Collect by TBS Online
+A new place for collecting IPTV streams from both TV channels and radio stations
