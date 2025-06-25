@@ -1,7 +1,15 @@
 #EXTM3U
+#EXTINF:-1 group-title="France" tvg-logo="",NRJ
+https://streaming.nrjaudio.fm/ouj3jtnxeb5p
 #EXTINF:-1 group-title="Germany" tvg-logo="",Antenne Bayern
 https://stream.antenne.de/antenne/stream/mp3
 #EXTINF:-1 group-title="Germany" tvg-logo="",Antenne Bayern In the mix
 https://stream.antenne.de/in-the-mix/stream/mp3
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/fe/Bayern_1_2023.png",Bayern 1 Oberbayern
+https://mcdn.hf.br.de/br/hf/b1obb/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/fe/Bayern_2_2023.png",Bayern 2
+https://mcdn.hf.br.de/br/hf/b2/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/fe/Bayern_3_2023.png",Bayern 3
 https://mcdn.hf.br.de/br/hf/b3/master.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Jason Derulo
+https://2.mystreaming.net/er-app/jasonderulo/chunks.m3u8
