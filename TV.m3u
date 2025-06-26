@@ -1,13 +1,57 @@
 #EXTM3U
+#EXTINF:-1 group-title="Argentina" tvg-logo="",Canal 3 Las Heras
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/03/BNT_1_%282018-.n.v.%29.png",BNT 1
+http://213.169.39.30:5086/
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/ea/BNT_2_%282018-.n.v.%29.png",BNT 2
+http://213.169.39.30:5124/
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d9/BNT_3_%282018-.n.v.%29.png",BNT 3
+http://213.169.39.30:5144/
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/60/BNT_4_%282018-.n.v.%29.png",BNT 4
+http://213.169.39.30:5235/
+#EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e3/MTV_00%27s_2021.png",MTV 00s
+http://213.169.39.30:5139/
+#EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/99/MTV_80%27s_2022.png",MTV 80s
+http://213.169.39.30:5137/
+#EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/d/dd/MTV_90%27s_2022.png",MTV 90s
+http://213.169.39.30:5203/
+#EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/a/aa/MTV_2021.png",MTV Global
+http://213.169.39.30:5202/
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Auto_Motor_und_Sport_Channel_%282014-.n.v.%29.png",Auto Motor und Sport Channel
+http://213.169.39.30:5233/
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2f/Das_Erste_2015.png",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/42/Deutsche_Welle_2012.png",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6b/Tagesschau24_2012.png",Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/da/TVR_i_%282022-.n.v.%29.png",TVR Internaţional
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
+#EXTINF:-1 group-title="Spain" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/7c/Star_TVE_%282016-.n.v.%29.png",Star TVE
+http://45.163.139.42:8080/
 #EXTINF:-1 group-title="United States" tvg-logo="",Akaku 53
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="",Akaku 54
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="",Akaku 55
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/42/ABC_America_2021.png",ABC West (KABC Los Angeles)
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2b/Cartoon_Network_2010.png",Cartoon Network East/Adult Swim East
+http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/38/CBS_2020.png",CBS West (KCBS Los Angeles)
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+#EXTINF:-1 group-title="United States" tvg-logo="",Disney Channel East
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="",Disney Jr. East
+https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/7c/Disney_XD_2015.png",Disney XD West
+https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/7c/Fox_2019.png",Fox West (KTTV Los Angeles)
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/9e/NBC_2022.png",NBC West (KNBC Los Angeles)
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c3/PBS_2019.png",PBS East (WNET New York)
+https://tvpass.org/live/WNET/hd
+#EXTINF:-1 group-title="United States" tvg-logo="",The Weather Channel East
+https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
