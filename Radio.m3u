@@ -21,13 +21,29 @@ https://mcdn.hf.br.de/br/hf/b1obb/master.m3u8
 https://mcdn.hf.br.de/br/hf/b2/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/fe/Bayern_3_2023.png",Bayern 3
 https://mcdn.hf.br.de/br/hf/b3/master.m3u8
+#EXTINF:-1 group-title="Romania" tvg-logo="",Kiss FM
+https://live.kissfm.ro/kissfm.aacp
+#EXTINF:-1 group-title="Romania" tvg-logo="",One FM
+https://dc.digi.live.kissfm.ro/onefm.aacp
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively BTS
 https://2.mystreaming.net/er-app/bts/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Jason Derulo
 https://2.mystreaming.net/er-app/jasonderulo/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 2000's
 https://2.mystreaming.net/uber-app/boomerang2000s/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 2010's
+https://2.mystreaming.net/uber-app/boomerang2010s/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2003
 https://2.mystreaming.net/tt-app/2003/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2004
+https://2.mystreaming.net/tt-app/2004/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2024
+https://2.mystreaming.net/tt-app/2024/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2025
 https://2.mystreaming.net/tt-app/2025/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",TikTok Trending
+https://nl4.mystreaming.net/er-app/tiktoktrending/chunks.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="",181.fm Energy 98
+https://listen.181fm.com/181-energy98_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-logo="",181.fm UK Top 40
+https://listen.181fm.com/181-uktop40_128k.mp3
