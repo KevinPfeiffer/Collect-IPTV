@@ -23,10 +23,34 @@ http://213.169.39.30:5233/
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/42/Deutsche_Welle_2012.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/7a/Franken_Fernsehen_%282010-.n.v.%29.png",Franken Fernsehen
+https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6b/Tagesschau24_2012.png",Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/cd/TVMainfranken_2019.png",TV Mainfranken
+https://stream01.welocal.stream/stream/fhd-tvmainfranken_255661/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="",TV Oberfranken
+https://stream02.welocal.stream/stream/fhd-tvo_480355/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="",Wotsch Kochen
+https://stream04.welocal.stream/stream/fhd-medienplattform-bayern_30844/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Italy" tvg-logo="",Radio Freccia Radiovisione
+https://streamcdnf32-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 group-title="Italy" tvg-logo="",Radio Zeta Radiovisione
+https://streamcdnf26-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 group-title="Italy" tvg-logo="",RTL 102.5 Radiovisione
+https://streamcdnf39-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 group-title="Jamaica" tvg-logo="",TVJ
+http://1tv41.icu:8080/5ZCJFs/416986/78918
+#EXTINF:-1 group-title="Jamaica" tvg-logo="",TVJ Sports Network
+http://1tv41.icu:8080/5ZCJFs/416986/66077
+#EXTINF:-1 group-title="Netherlands" tvg-logo="",Altena TV
+https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/da/TVR_i_%282022-.n.v.%29.png",TVR Internaţional
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
+#EXTINF:-1 group-title="Serbia" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/dc/Pink_Folk_1_%282013-.n.v.%29.png",Pink Folk 1
+http://5.57.74.130:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Serbia" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/fc/Pink_Music_%282018-.n.v.%29.png",Pink Music
+http://5.57.74.130:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/7c/Star_TVE_%282016-.n.v.%29.png",Star TVE
 http://45.163.139.42:8080/
 #EXTINF:-1 group-title="United States" tvg-logo="",Akaku 53
@@ -53,5 +77,7 @@ https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c3/PBS_2019.png",PBS East (WNET New York)
 https://tvpass.org/live/WNET/hd
+#EXTINF:-1 group-title="United States" tvg-logo="",Spark
+https://delta.webchnl.live/memfs/eea022e8-8a0b-414c-9e06-264b1088e577.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="",The Weather Channel East
 https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
