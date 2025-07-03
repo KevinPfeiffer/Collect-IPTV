@@ -5,6 +5,14 @@ https://streaming.nrjaudio.fm/oug7gyrb92oc
 https://streaming.nrjaudio.fm/oua8a3w2dqao
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ
 https://streaming.nrjaudio.fm/ouj3jtnxeb5p
+#EXTINF:-1 group-title="France" tvg-logo="",NRJ David Guetta
+https://streaming.nrjaudio.fm/ou2j8jpw5hs7
+#EXTINF:-1 group-title="France" tvg-logo="",NRJ Extravadance
+https://streaming.nrjaudio.fm/ou5eorirv93h
+#EXTINF:-1 group-title="France" tvg-logo="",NRJ TikTok
+https://streaming.nrjaudio.fm/ouw8hjsk6j4d
+#EXTINF:-1 group-title="France" tvg-logo="",NRJ TikTok Viral
+https://streaming.nrjaudio.fm/ou3iniuizv6i
 #EXTINF:-1 group-title="France" tvg-logo="",Rire et Chansons
 https://streaming.nrjaudio.fm/out2tu6ubafg
 #EXTINF:-1 group-title="Germany" tvg-logo="",Antenne Bayern
@@ -21,6 +29,10 @@ https://mcdn.hf.br.de/br/hf/b1obb/master.m3u8
 https://mcdn.hf.br.de/br/hf/b2/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/fe/Bayern_3_2023.png",Bayern 3
 https://mcdn.hf.br.de/br/hf/b3/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="",Sunshine Live
+https://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053
+#EXTINF:-1 group-title="Germany" tvg-logo="",Sunshine Live EDM
+https://sunsl.streamabc.net/sunsl-edm-mp3-192-2717081
 #EXTINF:-1 group-title="Romania" tvg-logo="",Kiss FM
 https://live.kissfm.ro/kissfm.aacp
 #EXTINF:-1 group-title="Romania" tvg-logo="",One FM
@@ -29,14 +41,28 @@ https://dc.digi.live.kissfm.ro/onefm.aacp
 https://2.mystreaming.net/er-app/bts/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Jason Derulo
 https://2.mystreaming.net/er-app/jasonderulo/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 1980's
+https://2.mystreaming.net/uber-app/boomerang1980s/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 1990's
+https://2.mystreaming.net/uber-app/boomerang1990s/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 2000's
 https://2.mystreaming.net/uber-app/boomerang2000s/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 2010's
 https://2.mystreaming.net/uber-app/boomerang2010s/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 2020's
+https://2.mystreaming.net/uber-app/boomerang2020s/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2003
 https://2.mystreaming.net/tt-app/2003/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2004
 https://2.mystreaming.net/tt-app/2004/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2005
+https://2.mystreaming.net/tt-app/2005/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2006
+https://2.mystreaming.net/tt-app/2006/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2022
+https://2.mystreaming.net/tt-app/2022/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2023
+https://2.mystreaming.net/tt-app/2023/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2024
 https://2.mystreaming.net/tt-app/2024/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2025
