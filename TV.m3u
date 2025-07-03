@@ -31,6 +31,8 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://stream01.welocal.stream/stream/fhd-tvmainfranken_255661/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="",TV Oberfranken
 https://stream02.welocal.stream/stream/fhd-tvo_480355/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="",Wotsch Heimat
+https://stream04.welocal.stream/stream/fhd-medienplattform-bayern_30838/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="",Wotsch Kochen
 https://stream04.welocal.stream/stream/fhd-medienplattform-bayern_30844/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Italy" tvg-logo="",Radio Freccia Radiovisione
@@ -53,6 +55,24 @@ http://5.57.74.130:8000/play/a02f/index.m3u8
 http://5.57.74.130:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/7c/Star_TVE_%282016-.n.v.%29.png",Star TVE
 http://45.163.139.42:8080/
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e6/BBC_One_2021.png",BBC One London
+http://185.24.121.53:9981/stream/channelid/171213643?profile=pass
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/3c/BBC_Two_2021.png",BBC Two
+http://185.24.121.53:9981/stream/channelid/1326168146?profile=pass
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c1/ITV_1_%282022-.n.v.%29.png",ITV1
+http://185.24.121.53:9981/stream/channelid/901577102?profile=pass
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/5c/ITV_2_%282022-.n.v.%29.png",ITV2
+http://185.24.121.53:9981/stream/channelid/382330697?profile=pass
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/eb/ITV_3_%282022-.n.v.%29.png",ITV3
+http://185.24.121.53:9981/stream/channelid/1057960215?profile=pass
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c0/ITV_4_%282022-.n.v.%29.png",ITV4
+http://185.24.121.53:9981/stream/channelid/1162470901?profile=pass
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/ad/ITV_Quiz_%282025-.n.v.%29.png",ITV Quiz
+http://185.24.121.53:9981/stream/channelid/2024212859?profile=pass
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Sky News Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="",Akaku 53
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="",Akaku 54
@@ -81,3 +101,7 @@ https://tvpass.org/live/WNET/hd
 https://delta.webchnl.live/memfs/eea022e8-8a0b-414c-9e06-264b1088e577.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="",The Weather Channel East
 https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="",WISC-TV (CBS Madison)
+http://205.166.37.222:9981/stream/channelid/788565248?profile=pass
+#EXTINF:-1 group-title="United States" tvg-logo="",WTMJ-TV (NBC Milwaukee)
+http://205.166.37.222:9981/stream/channelid/502165992?profile=pass
