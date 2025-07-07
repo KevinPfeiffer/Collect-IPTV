@@ -4,7 +4,7 @@ https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/03/BNT_1_%282018-.n.v.%29.png",BNT 1
 http://83.228.75.166:8000/play/a046
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/ea/BNT_2_%282018-.n.v.%29.png",BNT 2
-http://83.228.75.166:8000/play/a046
+http://83.228.75.166:8000/play/a049
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d9/BNT_3_%282018-.n.v.%29.png",BNT 3
 http://213.169.39.30:5144/
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/60/BNT_4_%282018-.n.v.%29.png",BNT 4
