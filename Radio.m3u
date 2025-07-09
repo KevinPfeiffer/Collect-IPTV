@@ -5,6 +5,8 @@ https://audiotainment-sw.streamabc.net/atsw-oneworldradio-mp3-128-3777062
 https://28553.live.streamtheworld.com/OWR_DAYBREAK.mp3
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e2/One_World_Radio_%282019-.n.v.%29.png",One World Radio Tomorrowland Anthems
 https://25633.live.streamtheworld.com/OWR_DAB.mp3
+#EXTINF:-1 group-title="Europe" tvg-logo="",ESC Radio
+https://icepool.silvacast.com/ESCRADIO.mp3
 #EXTINF:-1 group-title="France" tvg-logo="",Chérie FM
 https://streaming.nrjaudio.fm/oug7gyrb92oc
 #EXTINF:-1 group-title="France" tvg-logo="",Nostalgie
@@ -51,16 +53,30 @@ https://mcdn.hf.br.de/br/hf/b3/master.m3u8
 https://b2.stream43.radiohost.de/b2-discofox_mp3-192
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/4/43/Sunshine_Live_%282022-.n.v.%29.png",Sunshine Live
 https://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/4/43/Sunshine_Live_%282022-.n.v.%29.png",Sunshine Live 2000s
+https://sunsl.streamabc.net/sunsl-die2000er-mp3-192-3233898
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/4/43/Sunshine_Live_%282022-.n.v.%29.png",Sunshine Live EDM
 https://sunsl.streamabc.net/sunsl-edm-mp3-192-2717081
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/5/51/Kiss_FM_%282014-.n.v.%29.png",Kiss FM
 https://live.kissfm.ro/kissfm.aacp
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/5/51/Kiss_FM_%282014-.n.v.%29.png",Kiss Kiss in the Mix
+https://live.kissfm.ro/kkm.radio
 #EXTINF:-1 group-title="Romania" tvg-logo="",One FM
 https://dc.digi.live.kissfm.ro/onefm.aacp
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively BTS
 https://2.mystreaming.net/er-app/bts/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Jason Derulo
 https://2.mystreaming.net/er-app/jasonderulo/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Justin Timberlake
+https://2.mystreaming.net/er-app/justintimberlake/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Madonna
+https://2.mystreaming.net/er-app/madonna/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Taylor Swift
+https://2.mystreaming.net/er-app/taylorswift/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively The Weeknd
+https://2.mystreaming.net/er-app/theweeknd/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 1970's
+https://2.mystreaming.net/uber-app/boomerang1970s/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 1980's
 https://2.mystreaming.net/uber-app/boomerang1980s/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 1990's
@@ -79,6 +95,10 @@ https://2.mystreaming.net/tt-app/2004/chunks.m3u8
 https://2.mystreaming.net/tt-app/2005/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2006
 https://2.mystreaming.net/tt-app/2006/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2007
+https://2.mystreaming.net/tt-app/2007/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2021
+https://2.mystreaming.net/tt-app/2021/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2022
 https://2.mystreaming.net/tt-app/2022/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2023
@@ -89,6 +109,8 @@ https://2.mystreaming.net/tt-app/2024/chunks.m3u8
 https://2.mystreaming.net/tt-app/2025/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",TikTok Trending
 https://nl4.mystreaming.net/er-app/tiktoktrending/chunks.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital
+https://media-ssl.musicradio.com/CapitalUK
 #EXTINF:-1 group-title="United States" tvg-logo="",181.fm Energy 98
 https://listen.181fm.com/181-energy98_128k.mp3
 #EXTINF:-1 group-title="United States" tvg-logo="",181.fm UK Top 40
