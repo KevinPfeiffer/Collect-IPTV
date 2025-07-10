@@ -25,14 +25,22 @@ http://213.169.39.30:5137/
 http://213.169.39.30:5203/
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/a/aa/MTV_2021.png",MTV Global
 http://213.169.39.30:5202/
+#EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/e0/RTVI_%282021-.n.v.%29.png",RTVI
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/2086/index.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Stingray_iConcerts_2017.png",Stingray iConcerts
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/31417/index.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/a/af/France_2_2018.png",France 2
+http://176.65.146.100:8047/play/a073/index.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6f/TF1_2013.png",TF1
+http://176.65.146.100:8047/play/a07d/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/ef/3sat_2019.png",3sat
 http://176.10.117.3:5000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/5/5c/ARD-alpha_2014.png",ARD-alpha
 http://176.10.117.3:5000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Auto_Motor_und_Sport_Channel_%282014-.n.v.%29.png",Auto Motor und Sport Channel
 http://213.169.39.30:5233/
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2b/Cartoon_Network_2010.png",Cartoon Network
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/31368/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2f/Das_Erste_2015.png",Das Erste
 http://176.10.117.3:5000/play/a002/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/42/Deutsche_Welle_2012.png",DW English
@@ -45,6 +53,12 @@ http://176.10.117.3:5000/play/a00v/index.m3u8
 http://176.10.117.3:5000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/35/Phoenix_2018.png",Phoenix
 http://176.10.117.3:5000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/90/ProSieben_1994.png",ProSieben
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/6057/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/ce/RTL_2021.png",RTL
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/31368/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/96/RTL_Crime_2021.png",RTL Crime
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/15178/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/5/5d/Sky_Sport_News_2020.png",Sky Sport News
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/2477/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6b/Tagesschau24_2012.png",Tagesschau24
@@ -65,6 +79,12 @@ http://176.10.117.3:5000/play/a01e/index.m3u8
 https://streamcdnf32-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 group-title="Italy" tvg-logo="",Radio Zeta Radiovisione
 https://streamcdnf26-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 group-title="Italy" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/1/1c/Rai_1_2016.png",Rai 1
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/19081/index.m3u8
+#EXTINF:-1 group-title="Italy" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f1/Rai_2_2016.png",Rai 2
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/19082/index.m3u8
+#EXTINF:-1 group-title="Italy" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/87/Rai_3_2016.png",Rai 3
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/19083/index.m3u8
 #EXTINF:-1 group-title="Italy" tvg-logo="",RTL 102.5 Radiovisione
 https://streamcdnf39-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 group-title="Jamaica" tvg-logo="",TVJ
@@ -123,14 +143,30 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/9314/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/42/ABC_America_2021.png",ABC West (KABC Los Angeles)
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+#EXTINF:-1 group-title="United States" tvg-logo="",AFN Family/AFN Pulse
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118462.ts
+#EXTINF:-1 group-title="United States" tvg-logo="",AFN News
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118464.ts
+#EXTINF:-1 group-title="United States" tvg-logo="",AFN Prime Atlantic
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118465.ts
+#EXTINF:-1 group-title="United States" tvg-logo="",AFN Prime Pacific
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118466.ts
+#EXTINF:-1 group-title="United States" tvg-logo="",AFN Spectrum
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118467.ts
+#EXTINF:-1 group-title="United States" tvg-logo="",AFN Sports
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118468.ts
+#EXTINF:-1 group-title="United States" tvg-logo="",AFN Sports 2
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118469.ts
 #EXTINF:-1 group-title="United States" tvg-logo="",Akaku 53
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="",Akaku 54
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="",Akaku 55
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/42/ABC_America_2021.png",ABC West (KABC Los Angeles)
-https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/40/AMC_2019.png",AMC East
+https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2b/Cartoon_Network_2010.png",Cartoon Network East/Adult Swim East
 http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/38/CBS_2020.png",CBS West (KCBS Los Angeles)
