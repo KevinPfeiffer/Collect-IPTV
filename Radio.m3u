@@ -7,6 +7,8 @@ https://28553.live.streamtheworld.com/OWR_DAYBREAK.mp3
 https://25633.live.streamtheworld.com/OWR_DAB.mp3
 #EXTINF:-1 group-title="Europe" tvg-logo="",ESC Radio
 https://icepool.silvacast.com/ESCRADIO.mp3
+#EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/34/TBS_Radio_2023.png",TBS Radio
+http://stream.laut.fm/tbs2003
 #EXTINF:-1 group-title="France" tvg-logo="",Chérie FM
 https://streaming.nrjaudio.fm/oug7gyrb92oc
 #EXTINF:-1 group-title="France" tvg-logo="",Nostalgie
@@ -75,6 +77,8 @@ https://2.mystreaming.net/er-app/madonna/chunks.m3u8
 https://2.mystreaming.net/er-app/taylorswift/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively The Weeknd
 https://2.mystreaming.net/er-app/theweeknd/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 1960's
+https://2.mystreaming.net/uber-app/boomerang1960s/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 1970's
 https://2.mystreaming.net/uber-app/boomerang1970s/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 1980's
@@ -97,6 +101,10 @@ https://2.mystreaming.net/tt-app/2005/chunks.m3u8
 https://2.mystreaming.net/tt-app/2006/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2007
 https://2.mystreaming.net/tt-app/2007/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2008
+https://2.mystreaming.net/tt-app/2008/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2020
+https://2.mystreaming.net/tt-app/2020/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2021
 https://2.mystreaming.net/tt-app/2021/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2022
