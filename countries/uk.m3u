@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 group-title="Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e6/BBC_One_2021.png",BBC One London
+http://185.24.121.53:9981/stream/channelid/171213643?profile=pass
+#EXTINF:-1 group-title="Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/3c/BBC_Two_2021.png",BBC Two
+http://185.24.121.53:9981/stream/channelid/1326168146?profile=pass
+#EXTINF:-1 group-title="Main channels" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c1/ITV_1_%282022-.n.v.%29.png",ITV1
+http://185.24.121.53:9981/stream/channelid/901577102?profile=pass
+#EXTINF:-1 group-title="Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/37/Channel_4_2023.png",Channel 4
+http://185.24.121.53:9981/stream/channelid/1457306787?profile=pass
+#EXTINF:-1 group-title="General entertainment" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/5c/ITV_2_%282022-.n.v.%29.png",ITV2
+http://185.24.121.53:9981/stream/channelid/382330697?profile=pass
+#EXTINF:-1 group-title="General entertainment" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/eb/ITV_3_%282022-.n.v.%29.png",ITV3
+http://185.24.121.53:9981/stream/channelid/1057960215?profile=pass
+#EXTINF:-1 group-title="General entertainment" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c0/ITV_4_%282022-.n.v.%29.png",ITV4
+http://185.24.121.53:9981/stream/channelid/1162470901?profile=pass
+#EXTINF:-1 group-title="General entertainment" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/ad/ITV_Quiz_%282025-.n.v.%29.png",ITV Quiz
+http://185.24.121.53:9981/stream/channelid/2024212859?profile=pass
+#EXTINF:-1 group-title="News" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/02/BBC_News_2023.png",BBC News
+http://185.24.121.53:9981/stream/channelid/1105690019?profile=pass
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f2/Sky_Sports_News_2020.png",Sky Sports News
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/9314/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="",Sky News Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="",BBC Radio 1
+http://185.24.121.53:9981/stream/channelid/8984503?profile=pass
+#EXTINF:-1 group-title="Radio" tvg-logo="",BBC Radio 2
+http://185.24.121.53:9981/stream/channelid/1125359962?profile=pass
+#EXTINF:-1 group-title="Radio" tvg-logo="",BBC Radio 3
+http://185.24.121.53:9981/stream/channelid/1090936542?profile=pass
+#EXTINF:-1 group-title="Radio" tvg-logo="",BBC Radio 4
+http://185.24.121.53:9981/stream/channelid/677919840?profile=pass
+#EXTINF:-1 group-title="Radio" tvg-logo="",Capital
+https://media-ssl.musicradio.com/CapitalUK
+#EXTINF:-1 group-title="Radio" tvg-logo="",Classic FM
+https://media-ssl.musicradio.com/ClassicFM
+#EXTINF:-1 group-title="Radio" tvg-logo="",Gold Radio
+https://media-ssl.musicradio.com/Gold
+#EXTINF:-1 group-title="Radio" tvg-logo="",Heart
+https://media-ssl.musicradio.com/HeartUK
+#EXTINF:-1 group-title="Radio" tvg-logo="",LBC
+https://media-ssl.musicradio.com/LBCUK
+#EXTINF:-1 group-title="Radio" tvg-logo="",LBC News
+https://media-ssl.musicradio.com/LBCNewsUK
+#EXTINF:-1 group-title="Radio" tvg-logo="",Radio X
+https://media-ssl.musicradio.com/RadioXUK
+#EXTINF:-1 group-title="Radio" tvg-logo="",Smooth Radio
+https://media-ssl.musicradio.com/SmoothUK
