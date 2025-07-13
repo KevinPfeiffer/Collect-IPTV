@@ -77,6 +77,8 @@ https://2.mystreaming.net/er-app/madonna/chunks.m3u8
 https://2.mystreaming.net/er-app/taylorswift/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively The Weeknd
 https://2.mystreaming.net/er-app/theweeknd/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 1940's
+https://2.mystreaming.net/uber-app/boomerang1940s/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 1950's
 https://2.mystreaming.net/uber-app/boomerang1950s/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 1960's
@@ -93,6 +95,8 @@ https://2.mystreaming.net/uber-app/boomerang2000s/chunks.m3u8
 https://2.mystreaming.net/uber-app/boomerang2010s/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 2020's
 https://2.mystreaming.net/uber-app/boomerang2020s/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2002
+https://2.mystreaming.net/tt-app/2002/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2003
 https://2.mystreaming.net/tt-app/2003/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2004
@@ -107,6 +111,10 @@ https://2.mystreaming.net/tt-app/2007/chunks.m3u8
 https://2.mystreaming.net/tt-app/2008/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2009
 https://2.mystreaming.net/tt-app/2009/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2010
+https://2.mystreaming.net/tt-app/2010/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2018
+https://2.mystreaming.net/tt-app/2018/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2019
 https://2.mystreaming.net/tt-app/2019/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2020
@@ -133,6 +141,16 @@ http://185.24.121.53:9981/stream/channelid/1090936542?profile=pass
 http://185.24.121.53:9981/stream/channelid/677919840?profile=pass
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital
 https://media-ssl.musicradio.com/CapitalUK
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Anthems
+https://media-ssl.musicradio.com/CapitalAnthems
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Chill
+https://media-ssl.musicradio.com/CapitalChill
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Dance
+https://media-ssl.musicradio.com/CapitalDance
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Xtra
+https://media-ssl.musicradio.com/CapitalXTRANational
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Xtra Reloaded
+https://media-ssl.musicradio.com/CapitalXTRAReloaded
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Classic FM
 https://media-ssl.musicradio.com/ClassicFM
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Gold Radio
@@ -147,6 +165,8 @@ https://media-ssl.musicradio.com/LBCNewsUK
 https://media-ssl.musicradio.com/RadioXUK
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Smooth Radio
 https://media-ssl.musicradio.com/SmoothUK
+#EXTINF:-1 group-title="United States" tvg-logo="",181.fm Comedy
+https://listen.181fm.com/181-comedy_128k.mp3
 #EXTINF:-1 group-title="United States" tvg-logo="",181.fm Energy 98
 https://listen.181fm.com/181-energy98_128k.mp3
 #EXTINF:-1 group-title="United States" tvg-logo="",181.fm UK Top 40
