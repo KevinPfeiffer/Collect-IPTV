@@ -19,7 +19,7 @@ http://213.169.39.30:5235/
 http://38.143.48.212:9981/stream/channelid/1520310405?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-logo="",Disney Jr. (soon to be discontinued)
 http://38.143.48.212:9981/stream/channelid/946080634?profile=pass
-#EXTINF:-1 group-title="United States" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/7c/Disney_XD_2015.png",Disney XD (soon to be discontinued)
+#EXTINF:-1 group-title="Canada" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/7c/Disney_XD_2015.png",Disney XD (soon to be discontinued)
 http://cord-cutter.net:8080/hq3y4G/234247/57420
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bb/Baby_TV_%282024-.n.v.%29.png",Baby TV Europe
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/2084/index.m3u8
