@@ -265,6 +265,8 @@ https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 group-title="United States - Kids and family" tvg-logo="",Boomerang by Jpuffle5
 https://cdn.webvision.fun/memfs/3cc2fa80-1aa6-4e09-b4cf-27c80f112fa9.m3u8
+#EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",Bounce TV (WTMJ-DT2)
+http://205.166.37.222:9981/stream/channelid/1704988278?profile=pass
 #EXTINF:-1 group-title="United States - Music" tvg-id="CaliforniaMusicChannel.us" tvg-logo="",California Music Channel
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:-1 group-title="United States - Kids and family" tvg-id="CartoonNetwork.us" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2b/Cartoon_Network_2010.png",Cartoon Network East/Adult Swim East
@@ -287,8 +289,18 @@ https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="United States - Main channels" tvg-id="KTTVDT1.us" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/7c/Fox_2019.png",Fox West (KTTV Los Angeles)
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+#EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",Grit (WTMJ-DT3)
+http://205.166.37.222:9981/stream/channelid/2116799975?profile=pass
+#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Ion (WPXE-DT1)
+http://205.166.37.222:9981/stream/channelid/1599414618?profile=pass
+#EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",Ion Mystery (WTMJ-DT5)
+http://205.166.37.222:9981/stream/channelid/588628011?profile=pass
+#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Ion Plus (WPXE-DT1)
+http://205.166.37.222:9981/stream/channelid/121585580?profile=pass
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-id="KTLADT1.us" tvg-logo="",KTLA-TV (The CW Los Angeles)
 http://38.143.48.212:9981/stream/channelid/1330995256?profile=pass
+#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Laff (WTMJ-DT4)
+http://205.166.37.222:9981/stream/channelid/917571491?profile=pass
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-id="WMVTDT3.us" tvg-logo="",Milwaukee PBS Weather & Traffic (WMVT-DT3)
 http://205.166.37.222:9981/stream/channelid/1067919472?profile=pass
 #EXTINF:-1 group-title="United States - Main channels" tvg-id="KNBCDT1.us" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/9e/NBC_2022.png",NBC West (KNBC Los Angeles)
@@ -307,13 +319,15 @@ https://delta.webchnl.live/memfs/eea022e8-8a0b-414c-9e06-264b1088e577.m3u8
 https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-id="WISCDT1.us" tvg-logo="",WISC-TV (CBS Madison)
 http://205.166.37.222:9981/stream/channelid/788565248?profile=pass
+#EXTINF:-1 group-title="United States - Regional/Local" tvg-logo="",WISN-TV (ABC Milwaukee)
+http://205.166.37.222:9981/stream/channelid/1369252808?profile=pass
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-id="WITIDT1.us" tvg-logo="",WITI-TV (Fox Milwaukee)
 http://205.166.37.222:9981/stream/channelid/1375605476?profile=pass
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-id="WMVSDT1.us" tvg-logo="",WMVS-TV (Milwaukee PBS)
 http://205.166.37.222:9981/stream/channelid/1142306116?profile=pass
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-id="WMVTDT1.us" tvg-logo="",WMVT-TV (Milwaukee PBS)
 http://205.166.37.222:9981/stream/channelid/1485983760?profile=pass
-#EXTINF:-1 group-title="United States - Knowledge" tvg-id="WMVTDT2.us" tvg-logo="",World (WMvT-DT2)
+#EXTINF:-1 group-title="United States - Knowledge" tvg-id="WMVTDT2.us" tvg-logo="",World (WMVT-DT2)
 http://205.166.37.222:9981/stream/channelid/132821704?profile=pass
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-id="WTMJDT1.us" tvg-logo="",WTMJ-TV (NBC Milwaukee)
 http://205.166.37.222:9981/stream/channelid/502165992?profile=pass
