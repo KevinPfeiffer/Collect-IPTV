@@ -53,6 +53,20 @@ https://mcdn.hf.br.de/br/hf/b2/master.m3u8
 https://mcdn.hf.br.de/br/hf/b3/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="",Discofox Antenne
 https://b2.stream43.radiohost.de/b2-discofox_mp3-192
+#EXTINF:-1 group-title="Germany" tvg-logo="",egoFM
+https://cast.egofm.de/egofm.aac
+#EXTINF:-1 group-title="Germany" tvg-logo="",Energy
+https://edge59.streamonkey.net/energy-digital
+#EXTINF:-1 group-title="Germany" tvg-logo="",Energy Bremen
+https://ffn.stream03.radiohost.de/energybremen_mp3-192
+#EXTINF:-1 group-title="Germany" tvg-logo="",Energy Sachsen
+https://streaming.nrjaudio.fm/ouw8dwsk6j4d
+#EXTINF:-1 group-title="Germany" tvg-logo="",Energy Made in Germany
+https://edge11.streamonkey.net/energy-madeingermany
+#EXTINF:-1 group-title="Germany" tvg-logo="",Energy TikTok
+https://edge09.streamonkey.net/energy-tiktokde
+#EXTINF:-1 group-title="Germany" tvg-logo="",FluxFM
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/7efc3ff2-4804-431f-aaa9-7d1f8a7727c7/stream.aac
 #EXTINF:-1 group-title="Germany" tvg-logo="",Minemusic
 https://minemusic.stream.laut.fm/minemusic
 #EXTINF:-1 group-title="Germany" tvg-logo="",Minemusic 70er Hits
@@ -71,12 +85,16 @@ https://minemusic-clubhouse.stream.laut.fm/minemusic-clubhouse
 https://minemusic-inthemix.stream.laut.fm/minemusic-in_the_mix
 #EXTINF:-1 group-title="Germany" tvg-logo="",Minemusic RockMusic
 https://gohappy-fm.stream.laut.fm/gohappy-fm
+#EXTINF:-1 group-title="Germany" tvg-logo="",Radio Plassenburg
+https://edge65.stream.radio-plassenburg.de/radio-plassenburg?aggregator=radiogarden
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/4/43/Sunshine_Live_%282022-.n.v.%29.png",Sunshine Live
 https://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/4/43/Sunshine_Live_%282022-.n.v.%29.png",Sunshine Live 2000s
 https://sunsl.streamabc.net/sunsl-die2000er-mp3-192-3233898
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/4/43/Sunshine_Live_%282022-.n.v.%29.png",Sunshine Live EDM
 https://sunsl.streamabc.net/sunsl-edm-mp3-192-2717081
+#EXTINF:-1 group-title="Paraguay" tvg-logo="",Integración 104.3 FM
+https://proxy01.servidorenlinea.net/cdehosting/8022/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/5/51/Kiss_FM_%282014-.n.v.%29.png",Kiss FM
 https://live.kissfm.ro/kissfm.aacp
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/5/51/Kiss_FM_%282014-.n.v.%29.png",Kiss Hits from the 10s
@@ -87,6 +105,20 @@ https://live.kissfm.ro/kkm.radio
 https://live.magicfm.ro/magicfm.aacp
 #EXTINF:-1 group-title="Romania" tvg-logo="",One FM
 https://dc.digi.live.kissfm.ro/onefm.aacp
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/4/4d/Radio_Rom%C3%A2nia_Actualit%C4%83%C8%9Bi_%282008-.n.v.%29.png",Radio România Actualități
+https://stream4.srr.ro:8443/romania-actualitati
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/0/0a/Radio_Rom%C3%A2nia_Antena_Satelor_%282008-.n.v.%29.png",Radio România Antena Satelor
+https://stream4.srr.ro:8443/antena-satelor
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e8/Radio_Rom%C3%A2nia_Cultural_%282008-.n.v.%29.png",Radio România Cultural
+https://stream4.srr.ro:8443/romania-cultural
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/6/65/Radio_Rom%C3%A2nia_Muzical_%282008-.n.v.%29.png",Radio România Muzical
+https://stream4.srr.ro:8443/romania-muzical
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/0/06/Radio_Vacan%C8%9Ba_%282010-.n.v.%29.png",Radio Vacanța Fresh
+https://stream4.srr.ro:8443/fresh_rv
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/0/06/Radio_Vacan%C8%9Ba_%282010-.n.v.%29.png",Radio Vacanța Gold
+https://stream4.srr.ro:8443/gold_rv
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/0/06/Radio_Vacan%C8%9Ba_%282010-.n.v.%29.png",Radio Vacanța Nostalgia
+https://stream4.srr.ro:8443/nostalgia_rv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/1/1c/Rock_FM_%282010-.n.v.%29.png",Rock FM
 https://live.rockfm.ro/rockfm.aacp
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively BTS
@@ -207,6 +239,10 @@ https://media-ssl.musicradio.com/CapitalXTRANational
 https://media-ssl.musicradio.com/CapitalXTRAReloaded
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Classic FM
 https://media-ssl.musicradio.com/ClassicFM
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Classic FM Hall of Fame
+https://media-ssl.musicradio.com/ClassicFM-M-HOF
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Classic FM's Movie Music Hall Of Fame
+https://media-ssl.musicradio.com/ClassicFM-M-Movies
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Global Player's Boyband Fever
 https://media-ssl.musicradio.com/Global-M-Boybands
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Global Player's Fresh Music Friday
@@ -249,8 +285,26 @@ https://media-ssl.musicradio.com/LBCUK
 https://media-ssl.musicradio.com/LBCNewsUK
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Radio X
 https://media-ssl.musicradio.com/RadioXUK
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Radio X Best of British
+https://media-ssl.musicradio.com/RadioX-M-BestOfBritish
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Smooth 70s
+https://media-ssl.musicradio.com/Smooth70s
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Smooth 80s
+https://media-ssl.musicradio.com/Smooth80s
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Smooth All Time Top 500
+https://media-ssl.musicradio.com/Smooth-M-ATT500
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Smooth Chill
+https://media-ssl.musicradio.com/SmoothChill
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Smooth Country
+https://media-ssl.musicradio.com/SmoothCountry
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Smooth Radio
 https://media-ssl.musicradio.com/SmoothUK
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Smooth Relax
+https://media-ssl.musicradio.com/SmoothRelax
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Smooth Soul
+https://media-ssl.musicradio.com/SmoothSoul
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",The Capital Xtra 100
+https://media-ssl.musicradio.com/CapitalXtra-M-The100
 #EXTINF:-1 group-title="United States" tvg-logo="",181.fm Comedy
 https://listen.181fm.com/181-comedy_128k.mp3
 #EXTINF:-1 group-title="United States" tvg-logo="",181.fm Energy 98
