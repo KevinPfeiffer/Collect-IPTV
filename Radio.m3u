@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Barbados" tvg-logo="",Cita FM 90.1
+https://cast1.asurahosting.com/proxy/daniel26/stream
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e2/One_World_Radio_%282019-.n.v.%29.png",One World Radio
 https://audiotainment-sw.streamabc.net/atsw-oneworldradio-mp3-128-3777062
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e2/One_World_Radio_%282019-.n.v.%29.png",One World Radio Daybreak Sessions
@@ -11,20 +13,40 @@ https://icepool.silvacast.com/ESCRADIO.mp3
 http://stream.laut.fm/tbs2003
 #EXTINF:-1 group-title="France" tvg-logo="",Chérie FM
 https://streaming.nrjaudio.fm/oug7gyrb92oc
+#EXTINF:-1 group-title="France" tvg-logo="",LORFM
+https://lorfm.ice.infomaniak.ch/lorfm-128.mp3
 #EXTINF:-1 group-title="France" tvg-logo="",Nostalgie
 https://streaming.nrjaudio.fm/oua8a3w2dqao
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ
 https://streaming.nrjaudio.fm/ouj3jtnxeb5p
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ David Guetta
 https://streaming.nrjaudio.fm/ou2j8jpw5hs7
+#EXTINF:-1 group-title="France" tvg-logo="",NRJ EDM
+https://streaming.nrjaudio.fm/ou4wf6htd2ko
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ Extravadance
 https://streaming.nrjaudio.fm/ou5eorirv93h
+#EXTINF:-1 group-title="France" tvg-logo="",NRJ New Hits Friday
+https://streaming.nrjaudio.fm/ou8vstgk7oiu
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ TikTok
 https://streaming.nrjaudio.fm/ouw8hjsk6j4d
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ TikTok Viral
 https://streaming.nrjaudio.fm/ou3iniuizv6i
 #EXTINF:-1 group-title="France" tvg-logo="",Rire et Chansons
 https://streaming.nrjaudio.fm/out2tu6ubafg
+#EXTINF:-1 group-title="Germany" tvg-logo="",Absolut Bella
+https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3
+#EXTINF:-1 group-title="Germany" tvg-logo="",Absolut Germany
+https://absolut-germany.live-sm.absolutradio.de/absolut-germany/stream/mp3
+#EXTINF:-1 group-title="Germany" tvg-logo="",Absolut Oldie Classics
+https://absolut-oldieclassics.live-sm.absolutradio.de/absolut-oldieclassics/stream/mp3
+#EXTINF:-1 group-title="Germany" tvg-logo="",Absolut Hot
+https://absolut-hot.live-sm.absolutradio.de/absolut-hot/stream/mp3
+#EXTINF:-1 group-title="Germany" tvg-logo="",Absolut Radio AI
+https://absolut-ai.live-sm.absolutradio.de/absolut-ai/stream/mp3
+#EXTINF:-1 group-title="Germany" tvg-logo="",Absolut Relax
+https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/mp3
+#EXTINF:-1 group-title="Germany" tvg-logo="",Absolut Top 2000er
+https://absolut-top.live-sm.absolutradio.de/absolut-top/stream/mp3
 #EXTINF:-1 group-title="Germany" tvg-logo="",Antenne Bayern
 https://stream.antenne.de/antenne/stream/mp3
 #EXTINF:-1 group-title="Germany" tvg-logo="",Antenne Bayern 90er Eurodance
@@ -51,6 +73,8 @@ https://mcdn.hf.br.de/br/hf/b1obb/master.m3u8
 https://mcdn.hf.br.de/br/hf/b2/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/fe/Bayern_3_2023.png",Bayern 3
 https://mcdn.hf.br.de/br/hf/b3/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="",bigFM
+https://audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-8938364
 #EXTINF:-1 group-title="Germany" tvg-logo="",Discofox Antenne
 https://b2.stream43.radiohost.de/b2-discofox_mp3-192
 #EXTINF:-1 group-title="Germany" tvg-logo="",egoFM
@@ -59,14 +83,16 @@ https://cast.egofm.de/egofm.aac
 https://edge59.streamonkey.net/energy-digital
 #EXTINF:-1 group-title="Germany" tvg-logo="",Energy Bremen
 https://ffn.stream03.radiohost.de/energybremen_mp3-192
-#EXTINF:-1 group-title="Germany" tvg-logo="",Energy Sachsen
-https://streaming.nrjaudio.fm/ouw8dwsk6j4d
 #EXTINF:-1 group-title="Germany" tvg-logo="",Energy Made in Germany
 https://edge11.streamonkey.net/energy-madeingermany
+#EXTINF:-1 group-title="Germany" tvg-logo="",Energy Sachsen
+https://streaming.nrjaudio.fm/ouw8dwsk6j4d
 #EXTINF:-1 group-title="Germany" tvg-logo="",Energy TikTok
 https://edge09.streamonkey.net/energy-tiktokde
 #EXTINF:-1 group-title="Germany" tvg-logo="",FluxFM
 https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/7efc3ff2-4804-431f-aaa9-7d1f8a7727c7/stream.aac
+#EXTINF:-1 group-title="Germany" tvg-logo="",FluxFM Finest
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/a777b93d-e60c-47f9-be28-1233e6c9802d/stream.aac
 #EXTINF:-1 group-title="Germany" tvg-logo="",Minemusic
 https://minemusic.stream.laut.fm/minemusic
 #EXTINF:-1 group-title="Germany" tvg-logo="",Minemusic 70er Hits
@@ -309,5 +335,17 @@ https://media-ssl.musicradio.com/CapitalXtra-M-The100
 https://listen.181fm.com/181-comedy_128k.mp3
 #EXTINF:-1 group-title="United States" tvg-logo="",181.fm Energy 98
 https://listen.181fm.com/181-energy98_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-logo="",181.fm Studio 181
+https://listen.181fm.com/181-ball_128k.mp3
 #EXTINF:-1 group-title="United States" tvg-logo="",181.fm UK Top 40
 https://listen.181fm.com/181-uktop40_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-logo="",Only Hits
+https://ais-sa3.cdnstream1.com/2627_128.mp3
+#EXTINF:-1 group-title="United States" tvg-logo="",Only Hits Gold
+https://ais-sa3.cdnstream1.com/2628_128.mp3
+#EXTINF:-1 group-title="United States" tvg-logo="",Only Hits Japan
+https://ais-sa3.cdnstream1.com/2629_128.mp3
+#EXTINF:-1 group-title="United States" tvg-logo="",Only Hits K-Pop
+https://ais-sa3.cdnstream1.com/2630_128.mp3
+#EXTINF:-1 group-title="United States" tvg-logo="",Top Hits
+https://ais-sa3.cdnstream1.com/2631_128.mp3
