@@ -111,6 +111,8 @@ https://minemusic-clubhouse.stream.laut.fm/minemusic-clubhouse
 https://minemusic-inthemix.stream.laut.fm/minemusic-in_the_mix
 #EXTINF:-1 group-title="Germany" tvg-logo="",Minemusic RockMusic
 https://gohappy-fm.stream.laut.fm/gohappy-fm
+#EXTINF:-1 group-title="Germany" tvg-logo="",ON Radio
+https://0n-radio.radionetz.de/0n-radio.mp3
 #EXTINF:-1 group-title="Germany" tvg-logo="",Radio Plassenburg
 https://edge65.stream.radio-plassenburg.de/radio-plassenburg?aggregator=radiogarden
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/4/43/Sunshine_Live_%282022-.n.v.%29.png",Sunshine Live
@@ -119,6 +121,18 @@ https://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053
 https://sunsl.streamabc.net/sunsl-die2000er-mp3-192-3233898
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/4/43/Sunshine_Live_%282022-.n.v.%29.png",Sunshine Live EDM
 https://sunsl.streamabc.net/sunsl-edm-mp3-192-2717081
+#EXTINF:-1 group-title="Germany" tvg-logo="",SWR3
+https://swr3hlsaudio.akamaized.net/hls/live/2109007/swr3/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="",SWR3 2000er
+https://f131.rndfnk.com/ard/swr/swr/raka08/aac/96/stream.aac
+#EXTINF:-1 group-title="Germany" tvg-logo="",SWR3 Lyrix
+https://f141.rndfnk.com/ard/swr/swr/raka03/aac/96/stream.aac
+#EXTINF:-1 group-title="Germany" tvg-logo="",SWR3 Party
+https://f141.rndfnk.com/ard/swr/swr/raka06/aac/96/stream.aac
+#EXTINF:-1 group-title="Germany" tvg-logo="",SWR3 Rock
+https://d131.rndfnk.com/ard/swr/swr/raka05/aac/96/stream.aac
+#EXTINF:-1 group-title="Germany" tvg-logo="",SWR3 Special
+https://d131.rndfnk.com/ard/swr/swr/raka09/aac/96/stream.aac
 #EXTINF:-1 group-title="Paraguay" tvg-logo="",Integración 104.3 FM
 https://proxy01.servidorenlinea.net/cdehosting/8022/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/5/51/Kiss_FM_%282014-.n.v.%29.png",Kiss FM
@@ -147,14 +161,28 @@ https://stream4.srr.ro:8443/gold_rv
 https://stream4.srr.ro:8443/nostalgia_rv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/1/1c/Rock_FM_%282010-.n.v.%29.png",Rock FM
 https://live.rockfm.ro/rockfm.aacp
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Black Sabbath
+https://2.mystreaming.net/er-app/blacksabbath/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively BTS
 https://2.mystreaming.net/er-app/bts/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Coldplay
+https://2.mystreaming.net/er-app/coldplay/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Jason Derulo
 https://2.mystreaming.net/er-app/jasonderulo/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Justin Timberlake
 https://2.mystreaming.net/er-app/justintimberlake/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Lady Gaga
+https://2.mystreaming.net/er-app/ladygaga/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Madonna
 https://2.mystreaming.net/er-app/madonna/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively One Direction
+https://2.mystreaming.net/er-app/onedirection/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively OneRepublic
+https://2.mystreaming.net/er-app/onerepublic/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Rihanna
+https://2.mystreaming.net/er-app/rihanna/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Sabrina Carpenter
+https://2.mystreaming.net/er-app/sabrinacarperpenter/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Taylor Swift
 https://2.mystreaming.net/er-app/taylorswift/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively The Weeknd
@@ -181,6 +209,16 @@ https://2.mystreaming.net/uber-app/boomerang2000s/chunks.m3u8
 https://2.mystreaming.net/uber-app/boomerang2010s/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Greatest Hits 2020's
 https://2.mystreaming.net/uber-app/boomerang2020s/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 1995
+https://2.mystreaming.net/tt-app/1995/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 1996
+https://2.mystreaming.net/tt-app/1996/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 1997
+https://2.mystreaming.net/tt-app/1997/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 1998
+https://2.mystreaming.net/tt-app/1998/chunks.m3u8
+#EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 1999
+https://2.mystreaming.net/tt-app/1999/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2000
 https://2.mystreaming.net/tt-app/2000/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Tick Tock 2001
@@ -255,14 +293,28 @@ https://media-ssl.musicradio.com/Capital-M-Buzz
 https://media-ssl.musicradio.com/CapitalChill
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Dance
 https://media-ssl.musicradio.com/CapitalDance
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Dance D&B Essentials
+https://media-ssl.musicradio.com/Capital-M-DanceDB
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Dance HeatRave
+https://media-ssl.musicradio.com/Gold-M-Christmas
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Dance Jam Hot with MistaJam
 https://media-ssl.musicradio.com/CapitalDance-M-Jam-ROTY
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Dance Run'n'Bass
+https://media-ssl.musicradio.com/CapitalDance-M-Run
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital K-Pop
 https://media-ssl.musicradio.com/Capital-M-KPop
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Summer Anthem
+https://media-ssl.musicradio.com/Capital-M-Summer
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Xtra
 https://media-ssl.musicradio.com/CapitalXTRANational
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Xtra Carnival
+https://media-ssl.musicradio.com/CapitalXTRA-M-SummerSoundsystem
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Xtra Reloaded
 https://media-ssl.musicradio.com/CapitalXTRAReloaded
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital Xtra Slow Jams
+https://media-ssl.musicradio.com/CapitalXtra-M-SlowJams
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Capital's Workout Hits
+https://media-ssl.musicradio.com/Capital-M-Workout
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Classic FM
 https://media-ssl.musicradio.com/ClassicFM
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Classic FM Hall of Fame
@@ -293,12 +345,26 @@ https://media-ssl.musicradio.com/Heart70s
 https://media-ssl.musicradio.com/Heart80s
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Heart 90s
 https://media-ssl.musicradio.com/Heart90s
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Heart Club Classics
+https://media-ssl.musicradio.com/Heart-M-Club
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Heart Dance
 https://media-ssl.musicradio.com/HeartDance
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Heart Dance Ibiza Summer Classics
+https://media-ssl.musicradio.com/RadioX-M-BARoadtrip
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Heart Love
 https://media-ssl.musicradio.com/HeartLove
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Heart Musicals
 https://media-ssl.musicradio.com/HeartMusicals
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Heart Pride
+https://media-ssl.musicradio.com/Global-M-Pride
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Heart Pump Up The Gym!
+https://media-ssl.musicradio.com/Heart-M-DanceGym
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Heart Turn Up The Summer
+https://media-ssl.musicradio.com/Heart-M-Summer
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Heart Xmas
+https://media-ssl.musicradio.com/HeartXmas
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Heart's Run Club
+https://media-ssl.musicradio.com/Heart-M-RunClub
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Laser 588
 https://s1.autopo.st/proxy/stfkrnfr_s1?mp=/stream
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Laser 588 Classic
