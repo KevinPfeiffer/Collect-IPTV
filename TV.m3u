@@ -19,6 +19,14 @@ http://213.169.39.30:5144/
 http://213.169.39.30:5235/
 #EXTINF:-1 group-title="Canada" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2b/Cartoon_Network_2010.png",Cartoon Network
 http://38.143.48.212:9981/stream/channelid/1520310405?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-logo="",CBC News Network
+http://38.143.48.212:9981/stream/channelid/1944859004?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/31/CBC_2017.png",CBC Winnipeg
+http://38.143.48.212:9981/stream/channelid/817600784?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-logo="",CTV News Channel
+http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e6/CTV_2018.png",CTV Winnipeg
+http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-logo="",Disney Jr. (soon to be discontinued)
 http://38.143.48.212:9981/stream/channelid/946080634?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/7c/Disney_XD_2015.png",Disney XD (soon to be discontinued)
@@ -217,41 +225,55 @@ http://45.163.139.42:8080/
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 #EXTINF:-1 group-title="Switzerland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/69/RTS_2_2023.png",RTS 2
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/02/BBC_News_2023.png",BBC News
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/1/17/SRF_1_2012.png",SRF 1
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/02/SRF_Zwei_2012.png",SRF Zwei
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+#EXTINF:-1 group-title="United Kingdom - Main channels" tvg-logo="",5
+http://185.24.121.53:9981/stream/channelid/46204087?profile=pass
+#EXTINF:-1 group-title="United Kingdom - General entertainment" tvg-logo="",5Action
+http://185.24.121.53:9981/stream/channelid/1287436447?profile=pass
+#EXTINF:-1 group-title="United Kingdom - News" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/02/BBC_News_2023.png",BBC News
 http://185.24.121.53:9981/stream/channelid/1105690019?profile=pass
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e6/BBC_One_2021.png",BBC One London
+#EXTINF:-1 group-title="United Kingdom - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e6/BBC_One_2021.png",BBC One London
 http://185.24.121.53:9981/stream/channelid/171213643?profile=pass
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/3c/BBC_Two_2021.png",BBC Two
+#EXTINF:-1 group-title="United Kingdom - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/3c/BBC_Two_2021.png",BBC Two
 http://185.24.121.53:9981/stream/channelid/1326168146?profile=pass
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/37/Channel_4_2023.png",Channel 4
+#EXTINF:-1 group-title="United Kingdom - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f2/CBBC_2023.png",CBBC
+http://185.24.121.53:9981/stream/channelid/455269422?profile=pass
+#EXTINF:-1 group-title="United Kingdom - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/37/CBeebies_2023.png",CBeebies
+http://185.24.121.53:9981/stream/channelid/2094947627?profile=pass
+#EXTINF:-1 group-title="United Kingdom - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/37/Channel_4_2023.png",Channel 4
 http://185.24.121.53:9981/stream/channelid/1457306787?profile=pass
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c1/ITV_1_%282022-.n.v.%29.png",ITV1
+#EXTINF:-1 group-title="United Kingdom - Movies and series" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/02/Film4_2018.png",Film4
+http://185.24.121.53:9981/stream/channelid/463983845?profile=pass
+#EXTINF:-1 group-title="United Kingdom - Main channels" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c1/ITV_1_%282022-.n.v.%29.png",ITV1
 http://185.24.121.53:9981/stream/channelid/901577102?profile=pass
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/5c/ITV_2_%282022-.n.v.%29.png",ITV2
+#EXTINF:-1 group-title="United Kingdom - General entertainment" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/5c/ITV_2_%282022-.n.v.%29.png",ITV2
 http://185.24.121.53:9981/stream/channelid/382330697?profile=pass
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/eb/ITV_3_%282022-.n.v.%29.png",ITV3
+#EXTINF:-1 group-title="United Kingdom - General entertainment" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/eb/ITV_3_%282022-.n.v.%29.png",ITV3
 http://185.24.121.53:9981/stream/channelid/1057960215?profile=pass
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c0/ITV_4_%282022-.n.v.%29.png",ITV4
+#EXTINF:-1 group-title="United Kingdom - General entertainment" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c0/ITV_4_%282022-.n.v.%29.png",ITV4
 http://185.24.121.53:9981/stream/channelid/1162470901?profile=pass
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/ad/ITV_Quiz_%282025-.n.v.%29.png",ITV Quiz
+#EXTINF:-1 group-title="United Kingdom - General entertainment" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/ad/ITV_Quiz_%282025-.n.v.%29.png",ITV Quiz
 http://185.24.121.53:9981/stream/channelid/2024212859?profile=pass
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="",MTA1 World
+#EXTINF:-1 group-title="United Kingdom - Religious" tvg-logo="",MTA1 World
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="",MTA2 Europe
+#EXTINF:-1 group-title="United Kingdom - Religious" tvg-logo="",MTA2 Europe
 https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e1/Pop_2015.png",Pop
+#EXTINF:-1 group-title="United Kingdom - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e1/Pop_2015.png",Pop
 http://185.24.121.53:9981/stream/channelid/647188106?profile=pass
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Pop Up
+#EXTINF:-1 group-title="United Kingdom - Kids and family" tvg-logo="",Pop Up
 https://narrative-fast-popup-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-amagi/playlist.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/76/Sky_News_2020.png",Sky News International
+#EXTINF:-1 group-title="United Kingdom - News" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/76/Sky_News_2020.png",Sky News International
 http://188.174.204.193:9981/stream/channelid/2133360392?ticket=53AA017E35CF4D5F1FEEBB63DC4281EECFC7AC9D&profile=pass
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Sky News Weather
+#EXTINF:-1 group-title="United Kingdom - News" tvg-logo="",Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f2/Sky_Sports_News_2020.png",Sky Sports News
+#EXTINF:-1 group-title="United Kingdom - Sports" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f2/Sky_Sports_News_2020.png",Sky Sports News
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/9314/index.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Tiny Pop
+#EXTINF:-1 group-title="United Kingdom - Kids and family" tvg-logo="",Tiny Pop
 http://185.24.121.53:9981/stream/channelid/2077196906?profile=pass
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="",V2BEAT
+#EXTINF:-1 group-title="United Kingdom - Music" tvg-logo="",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="United States - Main channels" tvg-id="KABCDT1.us" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/42/ABC_America_2021.png",ABC West (KABC Los Angeles)
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
@@ -289,26 +311,6 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="United States - Main channels" tvg-id="KCBSDT1.us" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/38/CBS_2020.png",CBS West (KCBS Los Angeles)
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
-#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Channel 42
-https://www.pracdev.org/channel99/pls_files/channel_42.pls
-#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Channel 99
-https://www.pracdev.org/channel99/pls_files/channel_99.pls
-#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Channel 99½
-https://www.pracdev.org/channel99/pls_files/channel_99_half.pls
-#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Channel 99 Classic
-https://www.pracdev.org/channel99/pls_files/channel_99_classic.pls
-#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Channel 99 HD
-https://www.pracdev.org/channel99/pls_files/channel_99_hd.pls
-#EXTINF:-1 group-title="United States - Knowledge" tvg-logo="",Channel 101
-https://www.pracdev.org/channel99/pls_files/channel_101.pls
-#EXTINF:-1 group-title="United States - Knowledge" tvg-logo="",Channel 101½
-https://www.pracdev.org/channel99/pls_files/channel_101_half.pls
-#EXTINF:-1 group-title="United States - Knowledge" tvg-logo="",Channel 101 Dropout
-https://www.pracdev.org/channel99/pls_files/channel_101_dropout.pls
-#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Channel 2501
-https://www.pracdev.org/channel99/pls_files/channel_2501.pls
-#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Channel 4869
-https://www.pracdev.org/channel99/pls_files/channel_4869.pls
 #EXTINF:-1 group-title="United States - News" tvg-id="CNN.us" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/42/CNN_2014.png",CNN East
 https://fl1.moveonjoy.com/CNN/index.m3u8
 #EXTINF:-1 group-title="United States - News" tvg-id="CNNRePlay.us" tvg-logo="",CNN Fast
@@ -329,6 +331,10 @@ https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 #EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",Grit (WTMJ-DT3)
 http://205.166.37.222:9981/stream/channelid/2116799975?profile=pass
+#EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",HBO East
+https://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",HBO Family East (soon to be discontinued)
+https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Ion (WPXE-DT1)
 http://205.166.37.222:9981/stream/channelid/1599414618?profile=pass
 #EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",Ion Mystery (WTMJ-DT5)
@@ -343,10 +349,16 @@ http://205.166.37.222:9981/stream/channelid/917571491?profile=pass
 http://205.166.37.222:9981/stream/channelid/1067919472?profile=pass
 #EXTINF:-1 group-title="United States - Knowledge" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/3a/National_Geographic_2016.png",National Geographic East
 https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="United States - Knowledge" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/26/National_Geographic_Wild_2018.png",National Geographic Wild East
+https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="United States - Main channels" tvg-id="KNBCDT1.us" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/9e/NBC_2022.png",NBC West (KNBC Los Angeles)
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:-1 group-title="United States - Kids and family" tvg-id="Nickelodeon.us" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/ff/Nickelodeon_2023.png",Nickelodeon East/Nick@Nite East
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="United States - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/4c/NickToons_2023.png",NickToons East
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",Paramount+ with Showtime East
+https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="United States - Main channels" tvg-id="WNETDT1.us" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c3/PBS_2019.png",PBS East (WNET New York)
 https://tvpass.org/live/WNET/hd
 #EXTINF:-1 group-title="United States - Kids and family" tvg-id="PBSKids.us" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/5/5c/PBS_Kids_2022.png",PBS Kids
@@ -355,8 +367,12 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 http://205.166.37.222:9981/stream/channelid/1111304241?profile=pass
 #EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Spark
 https://delta.webchnl.live/memfs/eea022e8-8a0b-414c-9e06-264b1088e577.m3u8
+#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/00/TBS_2015.png",TBS East
+https://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="United States - News" tvg-id="TheWeatherChannel.us" tvg-logo="",The Weather Channel East
 https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/99/TNT_2016.png",TNT East
+https://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-id="WISCDT1.us" tvg-logo="",WISC-TV (CBS Madison)
 http://205.166.37.222:9981/stream/channelid/788565248?profile=pass
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-logo="",WISN-TV (ABC Milwaukee)
@@ -371,3 +387,5 @@ http://205.166.37.222:9981/stream/channelid/1485983760?profile=pass
 http://205.166.37.222:9981/stream/channelid/132821704?profile=pass
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-id="WTMJDT1.us" tvg-logo="",WTMJ-TV (NBC Milwaukee)
 http://205.166.37.222:9981/stream/channelid/502165992?profile=pass
+#EXTINF:-1 group-title="United States - News" tvg-logo="",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
