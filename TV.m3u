@@ -3,6 +3,22 @@
 http://188.174.204.193:9981/stream/channelid/1232196280?ticket=9F8EAAF73F8A073184058322140A2951A4E3DB9F&profile=pass
 #EXTINF:-1 group-title="Argentina" tvg-logo="",Canal 3 Las Heras
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",ABC Kids/ABC Family
+http://44.32.200.212:5004/auto/v22
+#EXTINF:-1 group-title="Australia" tvg-logo="",ABC News
+http://44.32.200.212:5004/auto/v24
+#EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c0/ABC_TV_2021.png",ABC TV Melbourne
+http://44.32.200.212:5004/auto/v20
+#EXTINF:-1 group-title="Australia" tvg-logo="",Network 10 Melbourne
+http://44.32.200.212:5004/auto/v1
+#EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/ff/Nickelodeon_2023.png",Nickelodeon/Nick@Nite
+http://44.32.200.212:5004/auto/v13
+#EXTINF:-1 group-title="Australia" tvg-logo="",Nine Network Melbourne
+http://44.32.200.212:5004/auto/v90
+#EXTINF:-1 group-title="Australia" tvg-logo="",SBS Melbourne
+http://44.32.200.212:5004/auto/v30
+#EXTINF:-1 group-title="Australia" tvg-logo="",Seven Network Melbourne
+http://44.32.200.212:5004/auto/v70
 #EXTINF:-1 group-title="Austria" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2a/ORF_1_2019.png",ORF 1
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 #EXTINF:-1 group-title="Austria" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/1/16/ORF_2_2012.png",ORF 2
@@ -31,6 +47,18 @@ http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
 http://38.143.48.212:9981/stream/channelid/946080634?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/7c/Disney_XD_2015.png",Disney XD (soon to be discontinued)
 http://cord-cutter.net:8080/hq3y4G/234247/57420
+#EXTINF:-1 group-title="Caribbean" tvg-logo="",TVCARiB
+https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="",TVCARiB Cinema
+https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="",TVCARiB Gospel
+https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="",TVCARiB Kids & Family
+https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="",TVCARiB Latino
+https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="",TVCARiB Radio
+https://cdn.mycloudstream.io/hls/live/broadcast/agf7yo9x/index.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bb/Baby_TV_%282024-.n.v.%29.png",Baby TV Europe
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/2084/index.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/02/BBC_News_2023.png",BBC News International
@@ -61,10 +89,24 @@ http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/849/index.m3u8
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/2086/index.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Stingray_iConcerts_2017.png",Stingray iConcerts
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/31417/index.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c9/CNews_2016.png",CNews
+http://173.229.4.239:5004/auto/v14
+#EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/5/5a/CStar_2016.png",CStar
+http://173.229.4.239:5004/auto/v17
 #EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/a/af/France_2_2018.png",France 2
 http://176.65.146.100:8047/play/a073/index.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/a/af/France_2_2018.png",France 2 UHD
+http://173.229.4.239:5004/auto/v52
+#EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/8b/France_3_2018.png",France 3
+http://176.65.146.100:8047/play/a076/index.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c2/France_4_2018.png",France 4
+http://176.65.146.100:8047/play/a074/index.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/7e/France_5_2018.png",France 5
+http://176.65.146.100:8047/play/a07a/index.m3u8
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ Hits
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/19199/index.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="",T18
+http://173.229.4.239:5004/auto/v18
 #EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6f/TF1_2013.png",TF1
 http://176.65.146.100:8047/play/a07d/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/ef/3sat_2019.png",3sat
@@ -147,6 +189,8 @@ https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
 #EXTINF:-1 group-title="Italy" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/87/Rai_3_2016.png",Rai 3
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+#EXTINF:-1 group-title="Italy" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/9d/Rai_Italia_2017.png",Rai Italia
+http://143.0.67.77:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Italy" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/25/Rai_News_24_2022.png",Rai News 24
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
 #EXTINF:-1 group-title="Italy" tvg-logo="",RTL 102.5 Radiovisione
@@ -158,13 +202,21 @@ http://1tv41.icu:8080/5ZCJFs/416986/66077
 #EXTINF:-1 group-title="Japan" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/5/51/NHK_General_TV_2024.png",NHK General
 http://vthanh.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2b/Cartoon_Network_2010.png",Cartoon Network
-http://201.174.175.3:8000/play/a0ql/index.m3u8
-#EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/9a/Disney_Channel_2019.png",Disney Channel
-http://201.174.175.3:8000/play/a0ut/index.m3u8
+http://143.0.67.77:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="",Discovery Theater HD
+http://143.0.67.77:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="",Discovery World HD
+http://143.0.67.77:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="",Disney Channel
+http://143.0.67.77:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/ff/Nickelodeon_2023.png",Nickelodeon
 http://201.174.175.3:8000/play/a0u1/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/65/Star_Channel_2021.png",Star Channel
+http://143.0.67.77:8000/play/a079/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c3/TeenNick_2023.png",TeenNick
 http://201.174.175.3:8000/play/a0rf/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/99/TNT_2016.png",TNT
+http://143.0.67.77:8000/play/a07d/index.m3u8
 #EXTINF:-1 group-title="Macau" tvg-logo="",Lotus Macau
 http://122.53.222.9:9981/stream/channelid/801543536?profile=pass
 #EXTINF:-1 group-title="Monaco" tvg-logo="",TVMonaco
@@ -183,6 +235,12 @@ https://atomic.streamnet.ro/academia.m3u8
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/82/Kiss_TV_%282014-.n.v.%29.png",Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/ae/TVR_1_%282022-.n.v.%29.png",TVR 1
+http://188.24.11.82:9981/stream/channelid/2006302830?ticket=505752886D7596CB2CA3DB7CD24009E65AD1F419&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8e/TVR_2_%282022-.n.v.%29.png",TVR 2
+http://188.24.11.82:9981/stream/channelid/820149369?ticket=4A71B70AF22C125BDA0C24B7EF49DECF425F8BCE&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a7/TVR_3_%282022-.n.v.%29.png",TVR 3
+http://188.24.11.82:9981/stream/channelid/1801836540?ticket=0D7BA66A725C044464FC353E9C6D40B6EDD3C264&profile=pass
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/da/TVR_i_%282022-.n.v.%29.png",TVR Internaţional
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/1/1f/Pervyi_Kanal_2000.png",Pervyi Kanal
@@ -347,6 +405,10 @@ http://38.143.48.212:9981/stream/channelid/1330995256?profile=pass
 http://205.166.37.222:9981/stream/channelid/917571491?profile=pass
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-id="WMVTDT3.us" tvg-logo="",Milwaukee PBS Weather & Traffic (WMVT-DT3)
 http://205.166.37.222:9981/stream/channelid/1067919472?profile=pass
+#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/a/aa/MTV_2021.png",MTV East
+http://128.230.54.128:5004/auto/v35.1
+#EXTINF:-1 group-title="United States - Music" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/41/MTV_Live_2016.png",MTV Live
+http://128.230.54.128:5004/auto/v60.1
 #EXTINF:-1 group-title="United States - Knowledge" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/3a/National_Geographic_2016.png",National Geographic East
 https://fl3.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="United States - Knowledge" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/26/National_Geographic_Wild_2018.png",National Geographic Wild East
@@ -355,6 +417,8 @@ https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:-1 group-title="United States - Kids and family" tvg-id="Nickelodeon.us" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/ff/Nickelodeon_2023.png",Nickelodeon East/Nick@Nite East
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="United States - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e7/Nick_Jr._2023.png",Nick Jr. East
+http://128.230.54.128:5004/auto/v45.2
 #EXTINF:-1 group-title="United States - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/4c/NickToons_2023.png",NickToons East
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",Paramount+ with Showtime East
@@ -367,6 +431,8 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 http://205.166.37.222:9981/stream/channelid/1111304241?profile=pass
 #EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Spark
 https://delta.webchnl.live/memfs/eea022e8-8a0b-414c-9e06-264b1088e577.m3u8
+#EXTINF:-1 group-title="United States - News" tvg-logo="",Spectrum News 1 Central New York
+http://128.230.54.128:5004/auto/v10.2
 #EXTINF:-1 group-title="United States - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/00/TBS_2015.png",TBS East
 https://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="United States - News" tvg-id="TheWeatherChannel.us" tvg-logo="",The Weather Channel East
