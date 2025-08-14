@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="Barbados" tvg-logo="",Cita FM 90.1
 https://cast1.asurahosting.com/proxy/daniel26/stream
+#EXTINF:-1 group-title="Belgium" tvg-logo="",Nostalgie
+https://n01a-eu.rcs.revma.com/5gd04cwptg0uv
+#EXTINF:-1 group-title="Belgium" tvg-logo="",Nostalgie+
+https://n21a-eu.rcs.revma.com/s9mkgtsqtg0uv
+#EXTINF:-1 group-title="Belgium" tvg-logo="",NRJ
+https://n09a-eu.rcs.revma.com/xh00fwuptg0uv
+#EXTINF:-1 group-title="Belgium" tvg-logo="",NRJ+
+https://n29a-eu.rcs.revma.com/1a6hdnzbebuvv
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e2/One_World_Radio_%282019-.n.v.%29.png",One World Radio
 https://audiotainment-sw.streamabc.net/atsw-oneworldradio-mp3-128-3777062
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e2/One_World_Radio_%282019-.n.v.%29.png",One World Radio Daybreak Sessions
@@ -129,6 +137,8 @@ https://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053
 https://sunsl.streamabc.net/sunsl-die2000er-mp3-192-3233898
 #EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/4/43/Sunshine_Live_%282022-.n.v.%29.png",Sunshine Live EDM
 https://sunsl.streamabc.net/sunsl-edm-mp3-192-2717081
+#EXTINF:-1 group-title="Germany" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/4/43/Sunshine_Live_%282022-.n.v.%29.png",Sunshine Live Eurodance
+https://sunsl.streamabc.net/sunsl-eurodance-mp3-192-9832422
 #EXTINF:-1 group-title="Germany" tvg-logo="",SWR3
 https://swr3hlsaudio.akamaized.net/hls/live/2109007/swr3/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="",SWR3 Lyrix
@@ -139,6 +149,8 @@ https://liveradio.swr.de/sw331ch/raka06/
 https://liveradio.swr.de/sw331ch/raka05/
 #EXTINF:-1 group-title="Paraguay" tvg-logo="",Integración 104.3 FM
 https://proxy01.servidorenlinea.net/cdehosting/8022/;
+#EXTINF:-1 group-title="Poland" tvg-logo="",RMF FM
+https://rs103-krk.rmfstream.pl/RMFFM48
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/5/51/Kiss_FM_%282014-.n.v.%29.png",Kiss FM
 https://live.kissfm.ro/kissfm.aacp
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/5/51/Kiss_FM_%282014-.n.v.%29.png",Kiss Hits from the 10s
@@ -423,6 +435,12 @@ https://listen.181fm.com/181-energy98_128k.mp3
 https://listen.181fm.com/181-ball_128k.mp3
 #EXTINF:-1 group-title="United States" tvg-logo="",181.fm UK Top 40
 https://listen.181fm.com/181-uktop40_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-logo="",Boss FM (KTLS)
+https://crystalout.surfernetwork.com:8001/KTLS-FM_MP3
+#EXTINF:-1 group-title="United States" tvg-logo="",Cool FM (KADA)
+https://crystalout.surfernetwork.com:8001/KADA_MP3
+#EXTINF:-1 group-title="United States" tvg-logo="",KCNP-FM
+https://ais-sa1.streamon.fm/7048_24k.aac
 #EXTINF:-1 group-title="United States" tvg-logo="",Only Hits
 https://ais-sa3.cdnstream1.com/2627_128.mp3
 #EXTINF:-1 group-title="United States" tvg-logo="",Only Hits Gold
@@ -431,6 +449,8 @@ https://ais-sa3.cdnstream1.com/2628_128.mp3
 https://ais-sa3.cdnstream1.com/2629_128.mp3
 #EXTINF:-1 group-title="United States" tvg-logo="",Only Hits K-Pop
 https://ais-sa3.cdnstream1.com/2630_128.mp3
+#EXTINF:-1 group-title="United States" tvg-logo="",The Gospel Station Network
+https://thegospelstation.streamguys1.com/live
 #EXTINF:-1 group-title="United States" tvg-logo="",Top Hits
 https://ais-sa3.cdnstream1.com/2631_128.mp3
 #EXTINF:-1 group-title="Zimbabwe" tvg-logo="",Capitalk FM 100.4
