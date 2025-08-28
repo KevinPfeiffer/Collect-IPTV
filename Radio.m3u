@@ -17,6 +17,10 @@ https://28553.live.streamtheworld.com/OWR_DAYBREAK.mp3
 https://25633.live.streamtheworld.com/OWR_DAB.mp3
 #EXTINF:-1 group-title="Brazil" tvg-logo="",Rádio Cidade FM
 https://server2.webradios.com.br:19214/9214
+#EXTINF:-1 group-title="Chile" tvg-logo="",Radio Nuevos Vientos
+https://servidor34-4.brlogic.com:7116/live
+#EXTINF:-1 group-title="Cook Islands" tvg-logo="",Life FM Cook Islands
+https://stream1.rcast.net/69711
 #EXTINF:-1 group-title="Europe" tvg-logo="",ESC Radio
 https://icepool.silvacast.com/ESCRADIO.mp3
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/34/TBS_Radio_2023.png",TBS Radio
@@ -151,6 +155,44 @@ https://liveradio.swr.de/sw331ch/raka05/
 https://proxy01.servidorenlinea.net/cdehosting/8022/;
 #EXTINF:-1 group-title="Poland" tvg-logo="",RMF FM
 https://rs103-krk.rmfstream.pl/RMFFM48
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS 90.4 FM
+https://azura.ebsmedia.ro/radio/8010/live128.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Alternative
+https://azura.ebsmedia.ro/radio/8020/alternative320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Blues
+https://azura.ebsmedia.ro/radio/8050/blues320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Cantece de Petrecere
+https://azura.ebsmedia.ro/radio/8170/petrecere320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Classical
+https://azura.ebsmedia.ro/listen/classical/classical128.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Dolce Vita
+https://azura.ebsmedia.ro/radio/8110/dolcevita320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Electro
+https://azura.ebsmedia.ro/radio/8040/electro320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Fresco
+https://azura.ebsmedia.ro/radio/8120/fresco320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Jazz
+https://azura.ebsmedia.ro/radio/8030/jazz320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Local
+https://azura.ebsmedia.ro/radio/8060/local320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Lounge
+https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Magyar Zene
+https://azura.ebsmedia.ro/radio/8160/hungarian320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Movie Soundtrack
+https://azura.ebsmedia.ro/radio/8100/movies320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Music
+https://azura.ebsmedia.ro/radio/8000/music320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Nostalgie
+https://azura.ebsmedia.ro/listen/nostalgie/nostalgie128.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Nouvelle Vague
+https://azura.ebsmedia.ro/radio/8130/nouvelle128.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Romanian Folk
+https://azura.ebsmedia.ro/radio/8150/romanianfolk320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Romanian Gold
+https://azura.ebsmedia.ro/radio/8140/romaniangold320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="",EBS Xmas
+https://azura.ebsmedia.ro/radio/8190/xmas320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/5/51/Kiss_FM_%282014-.n.v.%29.png",Kiss FM
 https://live.kissfm.ro/kissfm.aacp
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/5/51/Kiss_FM_%282014-.n.v.%29.png",Kiss Hits from the 10s
@@ -161,6 +203,22 @@ https://live.kissfm.ro/kkm.radio
 https://live.magicfm.ro/magicfm.aacp
 #EXTINF:-1 group-title="Romania" tvg-logo="",One FM
 https://dc.digi.live.kissfm.ro/onefm.aacp
+#EXTINF:-1 group-title="Romania" tvg-logo="",Radio GMusic Colinde
+https://s9.webradio-hosting.com/proxy/rgmcolinde/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="",Radio GMusic Dance
+https://s10.webradio-hosting.com/proxy/rgmdance/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="",Radio GMusic Planet Funk
+https://play.webradio-hosting.com:8036/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="",Radio GMusic Relax Garden
+https://play.webradio-hosting.com:8002/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="",Radio GMusic Retro
+https://s9.webradio-hosting.com/proxy/rgmretro/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="",Radio GMusic Rock
+https://s9.webradio-hosting.com/proxy/rgmrock/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="",Radio GMusic Soft
+https://s9.webradio-hosting.com/proxy/rgmsoft/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="",Radio GMusic Trap
+https://s9.webradio-hosting.com/proxy/rgmtrap/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/4/4d/Radio_Rom%C3%A2nia_Actualit%C4%83%C8%9Bi_%282008-.n.v.%29.png",Radio România Actualități
 https://stream4.srr.ro:8443/romania-actualitati
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/0/0a/Radio_Rom%C3%A2nia_Antena_Satelor_%282008-.n.v.%29.png",Radio România Antena Satelor
@@ -177,6 +235,8 @@ https://stream4.srr.ro:8443/gold_rv
 https://stream4.srr.ro:8443/nostalgia_rv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/1/1c/Rock_FM_%282010-.n.v.%29.png",Rock FM
 https://live.rockfm.ro/rockfm.aacp
+#EXTINF:-1 group-title="Turkey" tvg-logo="",Gün FM
+https://ssl120.radyotelekom.com.tr/8130/stream
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Black Sabbath
 https://2.mystreaming.net/er-app/blacksabbath/chunks.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively BTS
