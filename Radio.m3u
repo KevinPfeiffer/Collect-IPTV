@@ -17,6 +17,8 @@ https://28553.live.streamtheworld.com/OWR_DAYBREAK.mp3
 https://25633.live.streamtheworld.com/OWR_DAB.mp3
 #EXTINF:-1 group-title="Brazil" tvg-logo="",Rádio Cidade FM
 https://server2.webradios.com.br:19214/9214
+#EXTINF:-1 group-title="Brazil" tvg-logo="",Radio Omega
+https://webradio.amsolution.com.br/radio/8000/omega
 #EXTINF:-1 group-title="Chile" tvg-logo="",Radio Nuevos Vientos
 https://servidor34-4.brlogic.com:7116/live
 #EXTINF:-1 group-title="Cook Islands" tvg-logo="",Life FM Cook Islands
@@ -151,6 +153,12 @@ https://liveradio.swr.de/sw331ch/raka03/
 https://liveradio.swr.de/sw331ch/raka06/
 #EXTINF:-1 group-title="Germany" tvg-logo="",SWR3 Rock
 https://liveradio.swr.de/sw331ch/raka05/
+#EXTINF:-1 group-title="Hungary" tvg-logo="",Cool FM
+https://mediagw.e-tiger.net/stream/coolfm?.mp3
+#EXTINF:-1 group-title="Hungary" tvg-logo="",Folkrádió
+https://stream.folkradio.hu/folkradio.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-logo="",Jinglegek
+https://server-26.stream-server.nl:8632/stream
 #EXTINF:-1 group-title="Paraguay" tvg-logo="",Integración 104.3 FM
 https://proxy01.servidorenlinea.net/cdehosting/8022/;
 #EXTINF:-1 group-title="Poland" tvg-logo="",RMF FM
