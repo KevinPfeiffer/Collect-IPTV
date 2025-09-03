@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="Albania" tvg-logo="",Bang Bang
+http://rechahd.xyz:80/live/443432469215731/4362020837/53836.ts
+#EXTINF:-1 group-title="Albania" tvg-logo="",Çufo
+http://rechahd.xyz:80/live/443432469215731/4362020837/53835.ts
 #EXTINF:-1 group-title="Argentina" tvg-logo="",Canal 3 Las Heras
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 group-title="Australia" tvg-logo="",ABC Kids/ABC Family
@@ -140,7 +144,7 @@ http://tv.schulzens.com/stream/channelid/2100097247?profile=pass
 #EXTINF:-1 group-title="Germany - Sports" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Auto_Motor_und_Sport_Channel_%282014-.n.v.%29.png",Auto Motor und Sport Channel
 http://213.169.39.30:5233/
 #EXTINF:-1 group-title="Germany - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2b/Cartoon_Network_2010.png",Cartoon Network
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84713
+http://rechahd.xyz:80/live/443432469215731/4362020837/988071.ts
 #EXTINF:-1 group-title="Germany - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2f/Das_Erste_2015.png",Das Erste
 http://tv.schulzens.com/stream/channelid/1649422723?profile=pass
 #EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/d/d9/DF1_2024.png",DF1
@@ -205,6 +209,8 @@ http://tv.schulzens.com/stream/channelid/1004407363?profile=pass
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/31444/index.m3u8
 #EXTINF:-1 group-title="Hungary" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/66/Duna_%282012-.n.v.%29.png",Duna
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/9a/AXN_2015.png",AXN
+http://rechahd.xyz:80/live/443432469215731/4362020837/584491.ts
 #EXTINF:-1 group-title="Indonesia" tvg-logo="",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="",ABP Sanjha
@@ -325,6 +331,8 @@ http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/9027/index.m3u8
 http://5.57.74.130:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="Serbia" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/fc/Pink_Music_%282018-.n.v.%29.png",Pink Music
 http://5.57.74.130:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/97/Animax_2006.png",Animax
+http://rechahd.xyz:80/live/443432469215731/4362020837/986274.ts
 #EXTINF:-1 group-title="Singapore" tvg-logo="",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="Slovakia" tvg-logo="",Antik Info TV
