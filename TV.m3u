@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Albania" tvg-logo="",Bang Bang
-http://rechahd.xyz:80/live/443432469215731/4362020837/53836.ts
+http://1gotv.org:8080/4626128589099887/4626128589099887/395542
 #EXTINF:-1 group-title="Albania" tvg-logo="",Çufo
-http://rechahd.xyz:80/live/443432469215731/4362020837/53835.ts
+http://1gotv.org:8080/4626128589099887/4626128589099887/395541
+#EXTINF:-1 group-title="Albania" tvg-logo="",Junior
+http://1gotv.org:8080/4626128589099887/4626128589099887/395481
 #EXTINF:-1 group-title="Argentina" tvg-logo="",Canal 3 Las Heras
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 group-title="Australia" tvg-logo="",ABC Kids/ABC Family
@@ -61,10 +63,22 @@ https://cdn.mycloudstream.io/hls/live/broadcast/agf7yo9x/index.m3u8
 http://36.108.172.237:10016/stream/channelid/1452891120?ticket=dc1efb01634a5e53bfbf80c3d4b9676349c52014&profile=pass
 #EXTINF:-1 group-title="China" tvg-logo="",CCTV-2
 http://36.108.172.237:10016/stream/channelid/673382314?ticket=8fce450ade0fa79ff37ad6c1c7ff6c3d15d492c4&profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV-5+
+http://36.108.172.237:10016/stream/channelid/156540595?ticket=5bfd5a6db9b2487a0d07fd8061d75d3637a657fc&profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV-14
+http://36.108.172.237:10016/stream/channelid/219971478?ticket=2218a3f63a9321e0d8dd0ef9e44c44527f8c1e64&profile=pass
 #EXTINF:-1 group-title="China" tvg-logo="",CGTN
 http://tv.schulzens.com/stream/channelid/1651617511?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="",Dragon Television
+http://36.108.172.237:10016/stream/channelid/332138837?ticket=4960fa1fac4944f2d327dd769862c101aff74098&profile=pass
+#EXTINF:-1 group-title="China (Hong Kong)" tvg-logo="",TVB Jade
+http://60.246.171.122:8889/bysid/1
+#EXTINF:-1 group-title="China (Hong Kong)" tvg-logo="",TVB News Channel
+http://60.246.171.122:8892/bysid/83
 #EXTINF:-1 group-title="China (Hong Kong)" tvg-logo="",TVB Pearl
 http://60.246.171.122:8892/bysid/2
+#EXTINF:-1 group-title="China (Hong Kong)" tvg-logo="",TVB Plus
+http://60.246.171.122:8892/bysid/82
 #EXTINF:-1 group-title="China (Hong Kong)" tvg-logo="",ViuTV
 http://60.246.171.122:8889/bysid/99
 #EXTINF:-1 group-title="China (Hong Kong)" tvg-logo="",ViuTVsix
@@ -82,7 +96,7 @@ http://194.106.112.211:9981/stream/channelid/1484385968?profile=pass
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bb/Baby_TV_%282024-.n.v.%29.png",Baby TV Europe
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/2084/index.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/02/BBC_News_2023.png",BBC News International
-http://188.174.204.193:9981/stream/channelid/1687573957?ticket=44E9961525ED948063D823F52942D9DC9770B5DE&profile=pass
+https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/42/CNN_2014.png",CNN International
 http://185.24.121.53:9981/stream/channelid/1301670205?profile=pass
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/42/CNN_2014.png",CNN NewsSource International Feed 1
@@ -95,6 +109,10 @@ https://newsource-live.warnermediacdn.com/hls/live/2005452/intl03/master.m3u8
 https://newsource-live.warnermediacdn.com/hls/live/2005453/intl04/master.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/0b/Disney_Channel_2022.png",Disney Channel DoneBetter (Saturdays & Sundays)
 https://delta.webchnl.live/memfs/c9a8d5aa-b703-44b4-9dcb-a4557047c83c.m3u8
+#EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/0b/Disney_Channel_2022.png",Disney Channel Europe
+http://5.57.74.130:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Europe" tvg-logo="",Disney Jr. Europe
+http://5.57.74.130:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="",DoneBetter (Not 24/7)
 https://de.bnkd.xyz/memfs/cf4a0c4f-76e0-412d-9998-436fda01a212.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e3/MTV_00%27s_2021.png",MTV 00s (soon to be discontinued)
@@ -117,6 +135,10 @@ http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/849/index.m3u8
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/2086/index.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f8/Stingray_iConcerts_2017.png",Stingray iConcerts
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/31417/index.m3u8
+#EXTINF:-1 group-title="Europe" tvg-logo="",TV Rus
+http://185.236.229.62:9981/play/a08c
+#EXTINF:-1 group-title="Europe" tvg-logo="",TV Rus +
+http://185.236.229.62:9981/play/a08d
 #EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c9/CNews_2016.png",CNews
 http://173.229.4.239:5004/auto/v14
 #EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/5/5a/CStar_2016.png",CStar
@@ -131,9 +153,11 @@ http://176.65.146.100:8047/play/a076/index.m3u8
 http://176.65.146.100:8047/play/a074/index.m3u8
 #EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/7e/France_5_2018.png",France 5
 http://176.65.146.100:8047/play/a07a/index.m3u8
-#EXTINF:-1 group-title="France" tvg-logo="",NRJ Hits
+#EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/73/Novo_19_%282025-.n.v.%29.png",Novo 19
+http://173.229.4.239:5004/auto/v19
+#EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/80/NRJ_Hits_%282017-.n.v.%29.png",NRJ Hits
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/19199/index.m3u8
-#EXTINF:-1 group-title="France" tvg-logo="",T18
+#EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/b9/T18_%282025-.n.v.%29.png",T18
 http://173.229.4.239:5004/auto/v18
 #EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6f/TF1_2013.png",TF1
 http://176.65.146.100:8047/play/a07d/index.m3u8
@@ -144,7 +168,7 @@ http://tv.schulzens.com/stream/channelid/2100097247?profile=pass
 #EXTINF:-1 group-title="Germany - Sports" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Auto_Motor_und_Sport_Channel_%282014-.n.v.%29.png",Auto Motor und Sport Channel
 http://213.169.39.30:5233/
 #EXTINF:-1 group-title="Germany - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2b/Cartoon_Network_2010.png",Cartoon Network
-http://rechahd.xyz:80/live/443432469215731/4362020837/988071.ts
+http://1gotv.org:8080/4626128589099887/4626128589099887/396107
 #EXTINF:-1 group-title="Germany - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2f/Das_Erste_2015.png",Das Erste
 http://tv.schulzens.com/stream/channelid/1649422723?profile=pass
 #EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/d/d9/DF1_2024.png",DF1
@@ -209,8 +233,6 @@ http://tv.schulzens.com/stream/channelid/1004407363?profile=pass
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/31444/index.m3u8
 #EXTINF:-1 group-title="Hungary" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/66/Duna_%282012-.n.v.%29.png",Duna
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/9a/AXN_2015.png",AXN
-http://rechahd.xyz:80/live/443432469215731/4362020837/584491.ts
 #EXTINF:-1 group-title="Indonesia" tvg-logo="",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="",ABP Sanjha
@@ -277,18 +299,28 @@ https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/0b/Disney_Channel_2022.png",Disney Channel
 http://185.236.229.62:9981/play/a07d
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/09/Eleven_Sports_1_%282017-.n.v.%29.png",Eleven Sports 1 4K
+http://185.236.229.62:9981/play/a06e
 #EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/ff/Nickelodeon_2023.png",Nickelodeon
 http://185.236.229.62:9981/play/a067
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d1/Polsat_News_%282021-.n.v.%29.png",Polsat News
+http://185.236.229.62:9981/play/a041
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/da/Polsat_News_2_%282021-.n.v.%29.png",Polsat News 2
+http://185.236.229.62:9981/play/a03u
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0a/Polsat_News_Polityka_%282024-.n.v.%29.png",Polsat News Polityka
+http://185.236.229.62:9981/play/a07h
 #EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/29/TVN_2024.png",TVN
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/7286/index.m3u8
 #EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/1/16/TVP_1_2003.png",TVP 1
 http://185.236.229.62:9981/play/a05i
 #EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/29/TVP_2_2003.png",TVP 2
 http://185.236.229.62:9981/play/a07p
-#EXTINF:-1 group-title="Poland" tvg-logo="",TVP 3
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/47/TVP_3_%282016-.n.v.%29.png",TVP 3
 http://185.236.229.62:9981/play/a060
 #EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/1/10/TVP_Polonia_2020.png",TVP Polonia
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/7282/index.m3u8
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/cc/Wydarzenia_24_%282022-.n.v.%29.png",Wydarzenia 24
+http://185.236.229.62:9981/play/a06j
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bc/Atomic_TV_%282022-.n.v.%29.png",Atomic Academy
 https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bc/Atomic_TV_%282022-.n.v.%29.png",Atomic TV
@@ -329,10 +361,16 @@ http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/6388/index.m3u8
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/9027/index.m3u8
 #EXTINF:-1 group-title="Serbia" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/dc/Pink_Folk_1_%282013-.n.v.%29.png",Pink Folk 1
 http://5.57.74.130:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Serbia" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c5/Pink_Folk_2_%282013-.n.v.%29.png",Pink Folk 2
+http://5.57.74.130:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Serbia" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/70/Pink_Hits_2_%282015-.n.v.%29.png",Pink Hits 2
+http://5.57.74.130:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="Serbia" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/fc/Pink_Music_%282018-.n.v.%29.png",Pink Music
 http://5.57.74.130:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/97/Animax_2006.png",Animax
-http://rechahd.xyz:80/live/443432469215731/4362020837/986274.ts
+#EXTINF:-1 group-title="Serbia" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/83/Pink_Reality_%282013-.n.v.%29.png",Pink Reality
+http://5.57.74.130:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="Serbia" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/1/11/Pink_Zabava_%282015-.n.v.%29.png",Pink Zabava
+http://5.57.74.130:8000/play/a048/index.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-logo="",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="Slovakia" tvg-logo="",Antik Info TV
@@ -493,8 +531,6 @@ http://205.166.37.222:9981/stream/channelid/1599414618?profile=pass
 http://205.166.37.222:9981/stream/channelid/588628011?profile=pass
 #EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Ion Plus (WPXE-DT1)
 http://205.166.37.222:9981/stream/channelid/121585580?profile=pass
-#EXTINF:-1 group-title="United States - Knowledge" tvg-logo="",Inside Edition 24/7
-https://dai.google.com/linear/hls/pa/event/Y2DMgfclT3S2nNxANeIawA/stream/7b3b8458-1be5-41fb-a061-3251fd027520:BRU/master.m3u8
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-logo="",KTLA-TV (The CW Los Angeles)
 http://38.143.48.212:9981/stream/channelid/1330995256?profile=pass
 #EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Laff (WTMJ-DT4)
