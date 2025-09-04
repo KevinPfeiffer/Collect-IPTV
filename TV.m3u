@@ -217,7 +217,7 @@ https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/pl
 https://stream01.welocal.stream/stream/fhd-tvmainfranken_255661/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Germany - Regional/Local" tvg-logo="",TV Oberfranken
 https://stream02.welocal.stream/stream/fhd-tvo_480355/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Germany - Regional/Local" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/40/VOX_2013.png",VOX
+#EXTINF:-1 group-title="Germany - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/40/VOX_2013.png",VOX
 http://149.62.177.108:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="",Wotsch Heimat
 https://stream04.welocal.stream/stream/fhd-medienplattform-bayern_30838/ngrp:stream_all/playlist.m3u8
