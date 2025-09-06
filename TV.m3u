@@ -188,7 +188,7 @@ http://tv.schulzens.com/stream/channelid/2076687540?profile=pass
 #EXTINF:-1 group-title="Germany - Regional/Local" tvg-logo="",München TV
 https://stream02.welocal.stream/stream/fhd-muenchentv_365036/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Germany - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/ff/Nickelodeon_2023.png",Nickelodeon/Comedy Central +1
-http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/31351/index.m3u8
+http://tv.schulzens.com/stream/channelid/614255362?profile=pass
 #EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/b/b7/One_2022.png",One
 http://tv.schulzens.com/stream/channelid/1701499494?profile=pass
 #EXTINF:-1 group-title="Germany - Music" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/fc/One_Music_Television_2020.png",One Music Television
@@ -263,6 +263,8 @@ https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 http://143.0.67.77:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Italy" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/25/Rai_News_24_2022.png",Rai News 24
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
+#EXTINF:-1 group-title="Italy" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/29/Rai_World_Premium_%282017-.n.v.%29.png",Rai World Premium
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 group-title="Italy" tvg-logo="",RTL 102.5 Radiovisione
 https://streamcdnf39-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 group-title="Italy" tvg-logo="",Sky Uno
@@ -325,18 +327,16 @@ http://185.236.229.62:9981/play/a06j
 https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bc/Atomic_TV_%282022-.n.v.%29.png",Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 group-title="Romania" tvg-logo="",Info Cultural
+https://tvr-tvrinfocultural.cdn.zitec.com/live/tvrinfocultural/main.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/82/Kiss_TV_%282014-.n.v.%29.png",Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/e0/Pro_TV_%282017-.n.v.%29.png",Pro TV
-http://188.24.11.82:9981/stream/channelid/1021204508?ticket=ED447A48CB28C768483627EF838D8945896C815A&profile=pass
-#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/ae/TVR_1_%282022-.n.v.%29.png",TVR 1
-http://188.24.11.82:9981/stream/channelid/2006302830?ticket=505752886D7596CB2CA3DB7CD24009E65AD1F419&profile=pass
-#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8e/TVR_2_%282022-.n.v.%29.png",TVR 2
-http://188.24.11.82:9981/stream/channelid/820149369?ticket=4A71B70AF22C125BDA0C24B7EF49DECF425F8BCE&profile=pass
-#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a7/TVR_3_%282022-.n.v.%29.png",TVR 3
-http://188.24.11.82:9981/stream/channelid/1801836540?ticket=0D7BA66A725C044464FC353E9C6D40B6EDD3C264&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/Prima_4K_%282022-.n.v.%29.png",Prima 4K
+http://eduvr.vip:8080/Cristian-iova/sJyN8WJ8hC/101627
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/da/TVR_i_%282022-.n.v.%29.png",TVR Internaţional
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
+#EXTINF:-1 group-title="Romania" tvg-logo="",TVR Promo
+https://tvr-tvrpromo.cdn.zitec.com/live/tvrpromo/main.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/1/1f/Pervyi_Kanal_2000.png",Pervyi Kanal
 http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/2402/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="",TNT
@@ -385,6 +385,8 @@ https://n15.stv.livebox.sk/stv-tv/_definst_/stv1.smil/playlist.m3u8
 https://tvh.cyn.cz/stream/channelid/1605601895?profile=pass
 #EXTINF:-1 group-title="Spain" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/7c/Star_TVE_%282016-.n.v.%29.png",Star TVE
 http://45.163.139.42:8080/
+#EXTINF:-1 group-title="Spain" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/fa/TVE_Internacional_%282008-.n.v.%29.png",TVE Internacional América Latina
+http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 #EXTINF:-1 group-title="Switzerland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/96/RTS_1_2023.png",RTS 1
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 #EXTINF:-1 group-title="Switzerland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/69/RTS_2_2023.png",RTS 2
@@ -475,6 +477,16 @@ https://jmp2.uk/stvp-US400002PS
 https://tvpass.org/live/Boomerang/hd
 #EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",Bounce TV (WTMJ-DT2)
 http://205.166.37.222:9981/stream/channelid/1704988278?profile=pass
+#EXTINF:-1 group-title="United States - Regional/Local" tvg-logo="",Bronxnet Arts
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
+#EXTINF:-1 group-title="United States - Regional/Local" tvg-logo="",Bronxnet Culture
+https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
+#EXTINF:-1 group-title="United States - Regional/Local" tvg-logo="",Bronxnet Inform
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
+#EXTINF:-1 group-title="United States - Regional/Local" tvg-logo="",Bronxnet Inspire
+https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
+#EXTINF:-1 group-title="United States - Regional/Local" tvg-logo="",Bronxnet Omni
+https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8
 #EXTINF:-1 group-title="United States - News" tvg-logo="",C-SPAN
 https://fl3.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="United States - News" tvg-logo="",C-SPAN2
