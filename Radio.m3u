@@ -215,6 +215,8 @@ https://liveradio.swr.de/sw331ch/raka03/
 https://liveradio.swr.de/sw331ch/raka06/
 #EXTINF:-1 group-title="Germany" tvg-logo="",SWR3 Rock
 https://liveradio.swr.de/sw331ch/raka05/
+#EXTINF:-1 group-title="Guatemala" tvg-logo="",Sónica FM 106.9
+https://s6.voscast.com:9039/stream
 #EXTINF:-1 group-title="Hungary" tvg-logo="",Cool FM
 https://mediagw.e-tiger.net/stream/coolfm?.mp3
 #EXTINF:-1 group-title="Hungary" tvg-logo="",FM90 Campus
@@ -223,8 +225,14 @@ https://stream.fm90.hu:8000/stream
 https://stream.folkradio.hu/folkradio.mp3
 #EXTINF:-1 group-title="Hungary" tvg-logo="",Ozone FM
 https://oxygenmusic.hu:8443/ozonefm_128
+#EXTINF:-1 group-title="Italy" tvg-logo="",Radio Gamma 5
+https://ice05.fluidstream.net/fluid0510.mp3
+#EXTINF:-1 group-title="Italy" tvg-logo="",RTL 102.5
+https://streamcdnf24-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8
 #EXTINF:-1 group-title="Netherlands" tvg-logo="",Jinglegek
 https://server-26.stream-server.nl:8632/stream
+#EXTINF:-1 group-title="Nigeria" tvg-logo="",Voice FM
+https://centova.radioservers.biz/proxy/voicefm/live
 #EXTINF:-1 group-title="Paraguay" tvg-logo="",Integración 104.3 FM
 https://proxy01.servidorenlinea.net/cdehosting/8022/;
 #EXTINF:-1 group-title="Poland" tvg-logo="",RMF FM
@@ -293,6 +301,24 @@ https://s9.webradio-hosting.com/proxy/rgmrock/stream
 https://s9.webradio-hosting.com/proxy/rgmsoft/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="",Radio GMusic Trap
 https://s9.webradio-hosting.com/proxy/rgmtrap/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="",Radio Mega-HiT
+https://live.radiomegahit.eu:8080/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="",Radio Mega-HiT Chill
+https://chill.radiomegahit.eu:8004/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="",Radio Mega-HiT Christmas
+https://craciun.radiomegahit.eu:8114/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="",Radio Mega-HiT Lounge
+https://lounge.radiomegahit.eu:8014/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="",Radio Mega-HiT Popular
+https://popular.radiomegahit.eu:9000/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="",RadioPlay Colinde Romania
+http://colinde2.radioplay.ro:9292/;
+#EXTINF:-1 group-title="Romania" tvg-logo="",RadioPlay Live Romania
+http://live3.radioplay.ro:8181/;
+#EXTINF:-1 group-title="Romania" tvg-logo="",RadioPlay Manele Romania
+http://manele2.radioplay.ro:7171/;
+#EXTINF:-1 group-title="Romania" tvg-logo="",RadioPlay Trance Romania
+http://trance2.radioplay.ro:9092/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/4/4d/Radio_Rom%C3%A2nia_Actualit%C4%83%C8%9Bi_%282008-.n.v.%29.png",Radio România Actualități
 https://stream4.srr.ro:8443/romania-actualitati
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/0/0a/Radio_Rom%C3%A2nia_Antena_Satelor_%282008-.n.v.%29.png",Radio România Antena Satelor
@@ -309,6 +335,22 @@ https://stream4.srr.ro:8443/gold_rv
 https://stream4.srr.ro:8443/nostalgia_rv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/1/1c/Rock_FM_%282010-.n.v.%29.png",Rock FM
 https://live.rockfm.ro/rockfm.aacp
+#EXTINF:-1 group-title="Slovakia" tvg-logo="",Fun Rádio
+https://stream.funradio.sk:8000/fun192.mp3
+#EXTINF:-1 group-title="Slovakia" tvg-logo="",Fun Rádio 80's-90's
+https://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1 group-title="Slovakia" tvg-logo="",Fun Rádio Chill
+https://stream.funradio.sk:8000/chill128.mp3
+#EXTINF:-1 group-title="Slovakia" tvg-logo="",Fun Rádio CZ-SK
+https://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 group-title="Slovakia" tvg-logo="",Fun Rádio Dance
+https://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1 group-title="Slovakia" tvg-logo="",Fun Rádio Leto
+https://stream.funradio.sk:8000/summer128.mp3
+#EXTINF:-1 group-title="Slovakia" tvg-logo="",Fun Rádio Milenialky
+https://stream.funradio.sk:8000/milenialky128.mp3
+#EXTINF:-1 group-title="Slovakia" tvg-logo="",Radio KIKS
+https://online.radiokiks.sk:8000/kiks_hq.mp3
 #EXTINF:-1 group-title="Turkey" tvg-logo="",Gün FM
 https://ssl120.radyotelekom.com.tr/8130/stream
 #EXTINF:-1 group-title="United Arab Emirates" tvg-logo="",Exclusively Black Sabbath
