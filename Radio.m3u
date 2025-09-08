@@ -215,16 +215,26 @@ https://liveradio.swr.de/sw331ch/raka03/
 https://liveradio.swr.de/sw331ch/raka06/
 #EXTINF:-1 group-title="Germany" tvg-logo="",SWR3 Rock
 https://liveradio.swr.de/sw331ch/raka05/
+#EXTINF:-1 group-title="Greece" tvg-logo="",4U Radio FM 93.1
+https://netradio.live24.gr/4uradio931
 #EXTINF:-1 group-title="Guatemala" tvg-logo="",Sónica FM 106.9
 https://s6.voscast.com:9039/stream
 #EXTINF:-1 group-title="Hungary" tvg-logo="",Cool FM
 https://mediagw.e-tiger.net/stream/coolfm?.mp3
+#EXTINF:-1 group-title="Hungary" tvg-logo="",Dance Wave!
+https://onair.dancewave.online:8082/dance.mp3
+#EXTINF:-1 group-title="Hungary" tvg-logo="",Dance Wave Retro!
+https://onair.dancewave.online:8082/retrodance.mp3
 #EXTINF:-1 group-title="Hungary" tvg-logo="",FM90 Campus
 https://stream.fm90.hu:8000/stream
 #EXTINF:-1 group-title="Hungary" tvg-logo="",Folkrádió
 https://stream.folkradio.hu/folkradio.mp3
+#EXTINF:-1 group-title="Hungary" tvg-logo="",Mercy Magyar Rádió
+http://stream.mercyradio.eu/mercyradio.mp3
 #EXTINF:-1 group-title="Hungary" tvg-logo="",Ozone FM
 https://oxygenmusic.hu:8443/ozonefm_128
+#EXTINF:-1 group-title="Hungary" tvg-logo="",Rádió 1 Debrecen
+https://icast.connectmedia.hu/5219/live.mp3
 #EXTINF:-1 group-title="Italy" tvg-logo="",Radio Gamma 5
 https://ice05.fluidstream.net/fluid0510.mp3
 #EXTINF:-1 group-title="Italy" tvg-logo="",RTL 102.5
@@ -237,6 +247,38 @@ https://centova.radioservers.biz/proxy/voicefm/live
 https://proxy01.servidorenlinea.net/cdehosting/8022/;
 #EXTINF:-1 group-title="Poland" tvg-logo="",RMF FM
 https://rs103-krk.rmfstream.pl/RMFFM48
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET
+https://21633.live.streamtheworld.com/RADIO_ZET.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET 80
+https://zt03.cdn.eurozet.pl/ZET080.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET 90
+https://zt03.cdn.eurozet.pl/ZET090.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET 2000
+https://zt03.cdn.eurozet.pl/ZET200.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Dance
+https://zt03.cdn.eurozet.pl/ZETDAN.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Dla Dzieci
+https://zt01.cdn.eurozet.pl/ZETKID.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Impreza
+https://zt03.cdn.eurozet.pl/ZETPAR.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Kolędi
+https://zt02.cdn.eurozet.pl/ZETKOL.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Latino
+https://ch01.cdn.eurozet.pl/ZETLTN.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Live
+https://zt03.cdn.eurozet.pl/ZETLIV.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Love
+https://zt03.cdn.eurozet.pl/ZETLOV.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Na Rower
+https://zt03.cdn.eurozet.pl/ZETNAR.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Na Święta
+https://zt03.cdn.eurozet.pl/ZETSWI.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Po Polsku
+https://zt03.cdn.eurozet.pl/ZETPL1.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Same Hity
+https://zt03.cdn.eurozet.pl/ZETHIT.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",Slonskie Radio Hitmix
+https://s1.slotex.pl:7294/stream/1/
 #EXTINF:-1 group-title="Romania" tvg-logo="",EBS 90.4 FM
 https://azura.ebsmedia.ro/radio/8010/live128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="",EBS Alternative
