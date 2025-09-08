@@ -349,7 +349,7 @@ https://n15.stv.livebox.sk/stv-tv/_definst_/stv1.smil/playlist.m3u8
 http://dimed66.xyz//live/875A3316738F/300BF24FA7A6/1287088.ts
 #EXTINF:-1 group-title="Spain" tvg-logo="",La Sexta
 http://dimed66.xyz//live/875A3316738F/300BF24FA7A6/1140840.ts
-#EXTINF:-1 group-title="Spain" tvg-logo="",,Originales por Movistar Plus+
+#EXTINF:-1 group-title="Spain" tvg-logo="",Originales por Movistar Plus+
 http://dimed66.xyz//live/875A3316738F/300BF24FA7A6/21341.ts
 #EXTINF:-1 group-title="Spain" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/7c/Star_TVE_%282016-.n.v.%29.png",Star TVE
 http://45.163.139.42:8080/
