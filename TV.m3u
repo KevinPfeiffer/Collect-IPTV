@@ -5,6 +5,8 @@ http://1gotv.org:8080/4626128589099887/4626128589099887/395542
 http://1gotv.org:8080/4626128589099887/4626128589099887/395541
 #EXTINF:-1 group-title="Albania" tvg-logo="",Junior
 http://1gotv.org:8080/4626128589099887/4626128589099887/395481
+#EXTINF:-1 group-title="Albania" tvg-logo="",RTSH 2
+http://1gotv.org:8080/4626128589099887/4626128589099887/395645
 #EXTINF:-1 group-title="Argentina" tvg-logo="",Canal 3 Las Heras
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 group-title="Australia" tvg-logo="",ABC Kids/ABC Family
@@ -93,6 +95,8 @@ http://194.106.112.211:9981/stream/channelid/1929227516?profile=pass
 http://194.106.112.211:9981/stream/channelid/2128838909?profile=pass
 #EXTINF:-1 group-title="Estonia" tvg-logo="",ETV2
 http://194.106.112.211:9981/stream/channelid/1484385968?profile=pass
+#EXTINF:-1 group-title="Europe" tvg-logo="",360 Tune Box
+https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/02/BBC_News_2023.png",BBC News International
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/42/CNN_2014.png",CNN International
@@ -111,8 +115,14 @@ https://delta.webchnl.live/memfs/c9a8d5aa-b703-44b4-9dcb-a4557047c83c.m3u8
 http://5.57.74.130:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="",Disney Jr. Europe
 http://5.57.74.130:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Europe" tvg-logo="",Docubox
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="",DoneBetter (Not 24/7)
 https://de.bnkd.xyz/memfs/cf4a0c4f-76e0-412d-9998-436fda01a212.m3u8
+#EXTINF:-1 group-title="Europe" tvg-logo="",Duck TV Plus
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1 group-title="Europe" tvg-logo="",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e3/MTV_00%27s_2021.png",MTV 00s (soon to be discontinued)
 http://213.169.39.30:5139/
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/99/MTV_80%27s_2022.png",MTV 80s (soon to be discontinued)
@@ -125,6 +135,12 @@ http://213.169.39.30:5202/
 http://185.236.229.62:9981/play/a063
 #EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/ff/Nickelodeon_2023.png",Nickelodeon DoneBetter/DB@Nite (Mondays-Fridays)
 https://delta.webchnl.live/memfs/7577fe69-6090-43e1-9454-e29ddf8ec666.m3u8
+#EXTINF:-1 group-title="Europe" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/23/TV5Monde_2021.png",TV5Monde Europe
+http://149.249.198.5:9981/stream/channelid/1765148747?profile=pass
+#EXTINF:-1 group-title="Europe" tvg-logo="",TV5Monde+ Chefs
+https://jmp2.uk/stvp-FR1300003HM
+#EXTINF:-1 group-title="Europe" tvg-logo="",TV5Monde+ Voyage
+https://jmp2.uk/stvp-FR1800004EP
 #EXTINF:-1 group-title="Europe" tvg-logo="",TV Rus
 http://185.236.229.62:9981/play/a08c
 #EXTINF:-1 group-title="Europe" tvg-logo="",TV Rus +
@@ -179,6 +195,8 @@ http://tv.schulzens.com/stream/channelid/2076687540?profile=pass
 https://stream02.welocal.stream/stream/fhd-muenchentv_365036/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Germany - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/ff/Nickelodeon_2023.png",Nickelodeon/Comedy Central +1
 http://tv.schulzens.com/stream/channelid/614255362?profile=pass
+#EXTINF:-1 group-title="Germany - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/4c/NickToons_2023.png",NickToons
+http://146.19.169.196:9981/stream/channelid/70162511?profile=pass
 #EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/b/b7/One_2022.png",One
 http://tv.schulzens.com/stream/channelid/1701499494?profile=pass
 #EXTINF:-1 group-title="Germany - Music" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/fc/One_Music_Television_2020.png",One Music Television
@@ -195,6 +213,10 @@ http://149.62.177.108:8000/play/a00f/index.m3u8
 http://149.62.177.108:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Germany - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f9/Sat.1_2016.png",Sat.1
 http://149.62.177.108:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/d/dd/Sky_Showcase_2021.png",Sky Showcase
+http://146.19.169.196:9981/stream/channelid/1041033006?profile=pass
+#EXTINF:-1 group-title="Germany - Sports" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/5/5d/Sky_Sport_News_2020.png",Sky Sport News
+http://146.19.169.196:9981/stream/channelid/1387489539?profile=pass
 #EXTINF:-1 group-title="Germany - News" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6b/Tagesschau24_2012.png",Tagesschau24
 http://tv.schulzens.com/stream/channelid/898502747?profile=pass
 #EXTINF:-1 group-title="Germany - Regional/Local" tvg-logo="",TV Ingolstadt
@@ -205,6 +227,12 @@ https://stream01.welocal.stream/stream/fhd-tvmainfranken_255661/ngrp:stream_all/
 https://stream02.welocal.stream/stream/fhd-tvo_480355/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Germany - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/40/VOX_2013.png",VOX
 http://149.62.177.108:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/9f/Warner_TV_Comedy_2021.png",Warner TV Comedy
+http://146.19.169.196:9981/stream/channelid/1407318956?profile=pass
+#EXTINF:-1 group-title="Germany - Movies and series" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e7/Warner_TV_Film_2021.png",Warner TV Film
+http://146.19.169.196:9981/stream/channelid/1869172914?profile=pass
+#EXTINF:-1 group-title="Germany - Movies and series" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/b/b5/Warner_TV_Serie_2021.png",Warner TV Serie
+http://146.19.169.196:9981/stream/channelid/1417837671?profile=pass
 #EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="",Wotsch Heimat
 https://stream04.welocal.stream/stream/fhd-medienplattform-bayern_30838/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="",Wotsch Kochen
@@ -345,14 +373,24 @@ https://n15.stv.livebox.sk/stv-tv/_definst_/stv3.smil/playlist.m3u8
 https://n13.stv.livebox.sk/stv-tv/_definst_/stv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Slovakia" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/42/Jednotka_%282012-.n.v.%29.png",Jednotka
 https://n15.stv.livebox.sk/stv-tv/_definst_/stv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Spain" tvg-logo="",24 Horas
+http://83.63.50.226:9981/stream/channelid/593788404?ticket=C4523D53437AFC8321937C341FA2199EEEC44757&profile=pass
+#EXTINF:-1 group-title="Spain" tvg-logo="",Clan TVE
+http://83.63.50.226:9981/stream/channelid/1186466677?ticket=63079B89D0B32BA666505B928751B65E76BD97EB&profile=pass
+#EXTINF:-1 group-title="Spain" tvg-logo="",La 1
+http://83.63.50.226:9981/stream/channelid/775335850?ticket=10E9B15E38D0F8F4AADBDA8837263B25F4FE1ED9&profile=pass
 #EXTINF:-1 group-title="Spain" tvg-logo="",La 1 UHD
 http://dimed66.xyz//live/875A3316738F/300BF24FA7A6/1287088.ts
+#EXTINF:-1 group-title="Spain" tvg-logo="",La 2
+http://83.63.50.226:9981/stream/channelid/1715048499?ticket=99B46945FB8E8C36032053313666A09ABDD90B20&profile=pass
 #EXTINF:-1 group-title="Spain" tvg-logo="",La Sexta
 http://dimed66.xyz//live/875A3316738F/300BF24FA7A6/1140840.ts
 #EXTINF:-1 group-title="Spain" tvg-logo="",Originales por Movistar Plus+
 http://dimed66.xyz//live/875A3316738F/300BF24FA7A6/21341.ts
 #EXTINF:-1 group-title="Spain" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/7c/Star_TVE_%282016-.n.v.%29.png",Star TVE
 http://45.163.139.42:8080/
+#EXTINF:-1 group-title="Spain" tvg-logo="",Teledeporte
+http://83.63.50.226:9981/stream/channelid/1440606414?ticket=08280580A1981149E50FDBDCFB948415BC404601&profile=pass
 #EXTINF:-1 group-title="Spain" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/fa/TVE_Internacional_%282008-.n.v.%29.png",TVE Internacional América Latina
 http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 #EXTINF:-1 group-title="Switzerland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/96/RTS_1_2023.png",RTS 1
