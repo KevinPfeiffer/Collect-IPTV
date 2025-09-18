@@ -31,6 +31,12 @@ https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
 #EXTINF:-1 group-title="Austria" tvg-logo="",ORF Kids
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/ed/HBO_1980.png",HBO
+http://84.17.55.185:14100/
+#EXTINF:-1 group-title="Brazil" tvg-logo="",HBO Family
+http://84.17.55.185:14102/
+#EXTINF:-1 group-title="Brazil" tvg-logo="",SBT
+http://84.17.55.185:14020/
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/03/BNT_1_%282018-.n.v.%29.png",BNT 1
 http://83.228.75.166:8000/play/a046
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/ea/BNT_2_%282018-.n.v.%29.png",BNT 2
@@ -49,6 +55,16 @@ http://38.143.48.212:9981/stream/channelid/817600784?profile=pass
 http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e6/CTV_2018.png",CTV Winnipeg
 http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/9a/Disney_Channel_2019.png",Disney Channel
+http://supersonictv.live:8080/317136/Kennzack1218/21908
+#EXTINF:-1 group-title="Canada" tvg-logo="",Family Channel (soon to be discontinued)
+http://38.143.48.212:9981/stream/channelid/653225259?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-logo="",Family Jr. (soon to be discontinued)
+http://cord-cutter.net:8080/gscQ3v/779460/57346
+#EXTINF:-1 group-title="Canada" tvg-logo="",Télémagino (soon to be discontinued)
+http://supersonictv.live:8080/317136/Kennzack1218/22001
+#EXTINF:-1 group-title="Canada" tvg-logo="",WildBrain TV (soon to be discontinued)
+http://supersonictv.live:8080/317136/Kennzack1218/21917
 #EXTINF:-1 group-title="Caribbean" tvg-logo="",TVCARiB
 https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
 #EXTINF:-1 group-title="Caribbean" tvg-logo="",TVCARiB Cinema
@@ -168,17 +184,17 @@ http://173.229.4.239:5004/auto/v18
 #EXTINF:-1 group-title="France" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6f/TF1_2013.png",TF1
 http://176.65.146.100:8047/play/a07d/index.m3u8
 #EXTINF:-1 group-title="Germany - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/ef/3sat_2019.png",3sat
-http://tv.schulzens.com/stream/channelid/1535324561?profile=pass
+http://149.249.198.5:9981/stream/channelid/1153960931?profile=pass
 #EXTINF:-1 group-title="Germany - Knowledge" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/5/5c/ARD-alpha_2014.png",ARD-alpha
-http://tv.schulzens.com/stream/channelid/2100097247?profile=pass
+http://149.249.198.5:9981/stream/channelid/243244087?profile=pass
 #EXTINF:-1 group-title="Germany - Sports" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Auto_Motor_und_Sport_Channel_%282014-.n.v.%29.png",Auto Motor und Sport Channel
-http://213.169.39.30:5233/
+http://185.236.230.212:9981/play/a0cf
 #EXTINF:-1 group-title="Germany - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2b/Cartoon_Network_2010.png",Cartoon Network
 http://1gotv.org:8080/4626128589099887/4626128589099887/396107
 #EXTINF:-1 group-title="Germany - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2f/Das_Erste_2015.png",Das Erste
-http://tv.schulzens.com/stream/channelid/1649422723?profile=pass
+http://149.249.198.5:9981/stream/channelid/1831601340?profile=pass
 #EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/d/d9/DF1_2024.png",DF1
-http://tv.schulzens.com/stream/channelid/872895384?profile=pass
+http://149.249.198.5:9981/stream/channelid/1273007910?profile=pass
 #EXTINF:-1 group-title="Germany - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/0b/Disney_Channel_2022.png",Disney Channel
 http://149.62.177.108:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/42/Deutsche_Welle_2012.png",DW English
@@ -190,21 +206,19 @@ https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_a
 #EXTINF:-1 group-title="Germany - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/76/Kabel_eins_2015.png",Kabel eins
 http://149.62.177.108:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="Germany - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/5/5f/KiKA_2012.png",KiKA
-http://tv.schulzens.com/stream/channelid/2076687540?profile=pass
+http://149.249.198.5:9981/stream/channelid/981484271?profile=pass
 #EXTINF:-1 group-title="Germany - Regional/Local" tvg-logo="",München TV
 https://stream02.welocal.stream/stream/fhd-muenchentv_365036/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Germany - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/ff/Nickelodeon_2023.png",Nickelodeon/Comedy Central +1
 http://tv.schulzens.com/stream/channelid/614255362?profile=pass
-#EXTINF:-1 group-title="Germany - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/4c/NickToons_2023.png",NickToons
-http://146.19.169.196:9981/stream/channelid/70162511?profile=pass
 #EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/b/b7/One_2022.png",One
-http://tv.schulzens.com/stream/channelid/1701499494?profile=pass
+http://149.249.198.5:9981/stream/channelid/128408345?profile=pass
 #EXTINF:-1 group-title="Germany - Music" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/fc/One_Music_Television_2020.png",One Music Television
 https://cdne.folxplay.tv/fxt/streams/ch-3/master.m3u8
 #EXTINF:-1 group-title="Germany - News" tvg-logo="",Parlamentsfernsehen
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
 #EXTINF:-1 group-title="Germany - News" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/35/Phoenix_2018.png",Phoenix
-http://tv.schulzens.com/stream/channelid/1495231410?profile=pass
+http://149.249.198.5:9981/stream/channelid/862803407?profile=pass
 #EXTINF:-1 group-title="Germany - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/90/ProSieben_1994.png",ProSieben
 http://149.62.177.108:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="Germany - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/ce/RTL_2021.png",RTL
@@ -218,7 +232,7 @@ http://146.19.169.196:9981/stream/channelid/1041033006?profile=pass
 #EXTINF:-1 group-title="Germany - Sports" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/5/5d/Sky_Sport_News_2020.png",Sky Sport News
 http://146.19.169.196:9981/stream/channelid/1387489539?profile=pass
 #EXTINF:-1 group-title="Germany - News" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/6b/Tagesschau24_2012.png",Tagesschau24
-http://tv.schulzens.com/stream/channelid/898502747?profile=pass
+http://149.249.198.5:9981/stream/channelid/1090669380?profile=pass
 #EXTINF:-1 group-title="Germany - Regional/Local" tvg-logo="",TV Ingolstadt
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Germany - Regional/Local" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/cd/TVMainfranken_2019.png",TV Mainfranken
@@ -238,11 +252,11 @@ https://stream04.welocal.stream/stream/fhd-medienplattform-bayern_30838/ngrp:str
 #EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="",Wotsch Kochen
 https://stream04.welocal.stream/stream/fhd-medienplattform-bayern_30844/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Germany - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/5/56/ZDF_2001.png",ZDF
-http://tv.schulzens.com/stream/channelid/2068356896?profile=pass
+http://149.249.198.5:9981/stream/channelid/1592949654?profile=pass
 #EXTINF:-1 group-title="Germany - Knowledge" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/8a/ZDFinfo_2011.png",ZDFinfo
-http://tv.schulzens.com/stream/channelid/1085948192?profile=pass
+http://149.249.198.5:9981/stream/channelid/921426680?profile=pass
 #EXTINF:-1 group-title="Germany - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/43/ZDFneo_2017.png",ZDFneo
-http://tv.schulzens.com/stream/channelid/1004407363?profile=pass
+http://149.249.198.5:9981/stream/channelid/1762584090?profile=pass
 #EXTINF:-1 group-title="Germany - Music" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e1/Zwei_Music_Television_2020.png",Zwei Music Television
 https://cdne.folxplay.tv/fxt/streams/ch-2/master.m3u8
 #EXTINF:-1 group-title="Hungary" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/66/Duna_%282012-.n.v.%29.png",Duna
@@ -291,22 +305,18 @@ http://1tv41.icu:8080/5ZCJFs/416986/78918
 http://1tv41.icu:8080/5ZCJFs/416986/66077
 #EXTINF:-1 group-title="Japan" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/5/51/NHK_General_TV_2024.png",NHK General
 http://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2b/Cartoon_Network_2010.png",Cartoon Network
-http://143.0.67.77:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/b/b5/Discovery_2019.png",Discovery
+http://201.174.175.3:8000/play/a0vo/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="",Discovery Theater HD
-http://143.0.67.77:8000/play/a02z/index.m3u8
+http://201.174.175.3:8000/play/a0u3/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="",Discovery World HD
-http://143.0.67.77:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/1/12/Disney_Channel_2025.png",Disney Channel
-http://143.0.67.77:8000/play/a02r/index.m3u8
+http://201.174.175.3:8000/play/a0vp/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/ff/Nickelodeon_2023.png",Nickelodeon
 http://201.174.175.3:8000/play/a0u1/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/6/65/Star_Channel_2021.png",Star Channel
-http://143.0.67.77:8000/play/a079/index.m3u8
+http://201.174.175.3:8000/play/a0tv/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c3/TeenNick_2023.png",TeenNick
 http://201.174.175.3:8000/play/a0rf/index.m3u8
-#EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/99/TNT_2016.png",TNT
-http://143.0.67.77:8000/play/a07d/index.m3u8
 #EXTINF:-1 group-title="Macau" tvg-logo="",Lotus Macau
 http://122.53.222.9:9981/stream/channelid/801543536?profile=pass
 #EXTINF:-1 group-title="Malaysia" tvg-logo="",RTM Asean
@@ -317,8 +327,6 @@ https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/0b/Disney_Channel_2022.png",Disney Channel
 http://185.236.229.62:9981/play/a07d
-#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/09/Eleven_Sports_1_%282017-.n.v.%29.png",Eleven Sports 1 4K
-http://185.236.229.62:9981/play/a06e
 #EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/ff/Nickelodeon_2023.png",Nickelodeon
 http://185.236.229.62:9981/play/a067
 #EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d1/Polsat_News_%282021-.n.v.%29.png",Polsat News
@@ -421,6 +429,10 @@ http://185.24.121.53:9981/stream/channelid/2094947627?profile=pass
 http://185.24.121.53:9981/stream/channelid/1457306787?profile=pass
 #EXTINF:-1 group-title="United Kingdom - Movies and series" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/02/Film4_2018.png",Film4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
+#EXTINF:-1 group-title="United Kingdom - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/82/Food_Network_2013.png",Food Network
+http://185.24.121.53:9981/stream/channelid/534030147?profile=pass
+#EXTINF:-1 group-title="United Kingdom - Movies and series" tvg-logo="",GREAT! tv
+http://185.24.121.53:9981/stream/channelid/1241980400?profile=pass
 #EXTINF:-1 group-title="United Kingdom - Main channels" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c1/ITV_1_%282022-.n.v.%29.png",ITV1
 http://185.24.121.53:9981/stream/channelid/901577102?profile=pass
 #EXTINF:-1 group-title="United Kingdom - General entertainment" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/5c/ITV_2_%282022-.n.v.%29.png",ITV2
@@ -441,8 +453,10 @@ https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
 http://185.24.121.53:9981/stream/channelid/647188106?profile=pass
 #EXTINF:-1 group-title="United Kingdom - Kids and family" tvg-logo="",Pop Up
 https://narrative-fast-popup-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-amagi/playlist.m3u8
-#EXTINF:-1 group-title="United Kingdom - News" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/76/Sky_News_2020.png",Sky News International
-http://188.174.204.193:9981/stream/channelid/2133360392?ticket=53AA017E35CF4D5F1FEEBB63DC4281EECFC7AC9D&profile=pass
+#EXTINF:-1 group-title="United Kingdom - General entertainment" tvg-logo="",Sky Intro
+http://185.24.121.53:9981/stream/channelid/198336478?profile=pass
+#EXTINF:-1 group-title="United Kingdom - News" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/76/Sky_News_2020.png",Sky News
+https://a1xs.vip/1000018
 #EXTINF:-1 group-title="United Kingdom - News" tvg-logo="",Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="United Kingdom - Sports" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e4/Sky_Sports_Mix_2020.png",Sky Sports Mix
@@ -485,6 +499,8 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 http://128.230.54.128:5004/auto/v31.3
 #EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Animation+
 https://jmp2.uk/stvp-US400002PS
+#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",AXS TV
+https://fl7.moveonjoy.com/Axs_TV/index.m3u8
 #EXTINF:-1 group-title="United States - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c9/Boomerang_2015.png",Boomerang East
 https://tvpass.org/live/Boomerang/hd
 #EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",Bounce TV (WTMJ-DT2)
@@ -500,13 +516,13 @@ https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-logo="",Bronxnet Omni
 https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8
 #EXTINF:-1 group-title="United States - News" tvg-logo="",C-SPAN
-https://fl3.moveonjoy.com/C-SPAN/index.m3u8
+http://128.230.54.128:5004/auto/v43.3
 #EXTINF:-1 group-title="United States - News" tvg-logo="",C-SPAN2
 https://tvpass.org/live/CSPAN2/sd
 #EXTINF:-1 group-title="United States - Music" tvg-logo="",California Music Channel
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:-1 group-title="United States - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/2b/Cartoon_Network_2010.png",Cartoon Network East/Adult Swim East
-https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+http://128.230.54.128:5004/auto/v46.1
 #EXTINF:-1 group-title="United States - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/38/CBS_2020.png",CBS East (WTVH Syracuse)
 http://128.230.54.128:5004/auto/v11.6
 #EXTINF:-1 group-title="United States - News" tvg-logo="",CBS News 24/7
@@ -515,10 +531,12 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 group-title="United States - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/38/CBS_2020.png",CBS West (KCBS Los Angeles)
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+#EXTINF:-1 group-title="United States - News" tvg-logo="",CNBC East
+https://fl7.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="United States - News" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/42/CNN_2014.png",CNN East
-https://fl1.moveonjoy.com/CNN/index.m3u8
+http://128.230.54.128:5004/auto/v41.1
 #EXTINF:-1 group-title="United States - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/e0/Comedy_Central_2018.png",Comedy Central East
-https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+https://fl7.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 group-title="United States - Knowledge" tvg-logo="",Create (WCNY-DT2)
 http://128.230.54.128:5004/auto/v13.7
 #EXTINF:-1 group-title="United States - Knowledge" tvg-logo="",Create (WMVS-DT2)
@@ -526,17 +544,17 @@ http://205.166.37.222:9981/stream/channelid/328156329?profile=pass
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-logo="",Cypress Public Access Channel 36
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
 #EXTINF:-1 group-title="United States - Knowledge" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/b/b5/Discovery_2019.png",Discovery East
-https://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+http://128.230.54.128:5004/auto/v32.1
 #EXTINF:-1 group-title="United States - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/1/12/Disney_Channel_2025.png",Disney Channel East
-https://fl5.moveonjoy.com/DISNEY/index.m3u8
+https://fl7.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 group-title="United States - Kids and family" tvg-logo="",Disney Jr. East
-https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+https://fl7.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 group-title="United States - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/7c/Disney_XD_2015.png",Disney XD East
-https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="United States - Sports" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/7e/ESPN_1985.png",ESPN East
 http://143.244.60.30/Espn/index.m3u8
 #EXTINF:-1 group-title="United States - Sports" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/f/f3/ESPN2_2001.png",ESPN2 East
-https://fl3.moveonjoy.com/ESPN_2/index.m3u8
+http://128.230.54.128:5004/auto/v47.3
 #EXTINF:-1 group-title="United States - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/8/82/Food_Network_2013.png",Food Network East
 http://128.230.54.128:5004/auto/v38.1
 #EXTINF:-1 group-title="United States - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/7c/Fox_2019.png",Fox East (WSYT Syracuse)
@@ -545,10 +563,12 @@ http://128.230.54.128:5004/auto/v12.1
 https://livetv-fa.tubi.video/fox-weather/index.m3u8
 #EXTINF:-1 group-title="United States - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/7/7c/Fox_2019.png",Fox West (KTTV Los Angeles)
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+#EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Freeform East
+https://fl7.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",Grit (WTMJ-DT3)
 http://205.166.37.222:9981/stream/channelid/2116799975?profile=pass
-#EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",HBO East
-https://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="United States - Movies and series" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/e/ed/HBO_1980.png",HBO East
+http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Ion (WPXE-DT1)
 http://205.166.37.222:9981/stream/channelid/1599414618?profile=pass
 #EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",Ion Mystery (WTMJ-DT5)
@@ -570,9 +590,9 @@ http://128.230.54.128:5004/auto/v35.1
 #EXTINF:-1 group-title="United States - Music" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/41/MTV_Live_2016.png",MTV Live
 http://128.230.54.128:5004/auto/v60.1
 #EXTINF:-1 group-title="United States - Knowledge" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/3/3a/National_Geographic_2016.png",National Geographic East
-https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+https://fl7.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="United States - Knowledge" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/2/26/National_Geographic_Wild_2018.png",National Geographic Wild East
-https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="United States - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/9e/NBC_2022.png",NBC East (WSTM Syracuse)
 http://128.230.54.128:5004/auto/v12.6
 #EXTINF:-1 group-title="United States - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/9e/NBC_2022.png",NBC West (KNBC Los Angeles)
@@ -584,7 +604,7 @@ http://128.230.54.128:5004/auto/v45.2
 #EXTINF:-1 group-title="United States - Kids and family" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/4c/NickToons_2023.png",NickToons East
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="United States - Movies and series" tvg-logo="",Paramount+ with Showtime East
-https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+https://fl7.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="United States - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c3/PBS_2019.png",PBS East (WCNY Syracuse)
 http://128.230.54.128:5004/auto/v13.6
 #EXTINF:-1 group-title="United States - Main channels" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/c/c3/PBS_2019.png",PBS East (WNET New York)
@@ -598,13 +618,13 @@ https://delta.webchnl.live/memfs/eea022e8-8a0b-414c-9e06-264b1088e577.m3u8
 #EXTINF:-1 group-title="United States - News" tvg-logo="",Spectrum News 1 Central New York
 http://128.230.54.128:5004/auto/v10.2
 #EXTINF:-1 group-title="United States - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/0/00/TBS_2015.png",TBS East
-https://fl1.moveonjoy.com/TBS/index.m3u8
+https://fl7.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="United States - Main channels" tvg-logo="",The CW East (WSTM Syracuse)
 http://128.230.54.128:5004/auto/v13.1
 #EXTINF:-1 group-title="United States - News" tvg-id="TheWeatherChannel.us" tvg-logo="",The Weather Channel East
-https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+https://fl7.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="United States - General entertainment" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/9/99/TNT_2016.png",TNT East
-https://fl1.moveonjoy.com/TNT/index.m3u8
+https://fl7.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 group-title="United States - General entertainment" tvg-logo="",Whiplash
 https://rhine.webchnl.live/memfs/ac0f016c-e39c-4fa5-885d-b90aec65b076.m3u8
 #EXTINF:-1 group-title="United States - Regional/Local" tvg-logo="",WISN-TV (ABC Milwaukee)
@@ -621,3 +641,7 @@ http://205.166.37.222:9981/stream/channelid/132821704?profile=pass
 http://205.166.37.222:9981/stream/channelid/502165992?profile=pass
 #EXTINF:-1 group-title="United States - News" tvg-logo="",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="",Vietnam Today
+https://hls.mskycdn.online/tv/vntoday/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="",VTV4
+https://tv.ddns.vn/tv/vtv4fhd/index.m3u8
