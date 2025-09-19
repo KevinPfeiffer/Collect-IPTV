@@ -1,6 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="Åland" tvg-logo="",Steel FM
+https://ice6.securenetsystems.net/STEELFM
 #EXTINF:-1 group-title="Argentina" tvg-logo="",FM Ciudad
 https://streaming6.locucionar.com:24028/stream
+#EXTINF:-1 group-title="Armenia" tvg-logo="",Kiss FM
+https://am.radioaurora.am/kiss
+#EXTINF:-1 group-title="Austria" tvg-logo="",Antenne Steiermark
+https://live.antenne.at/as?.mp3
+#EXTINF:-1 group-title="Austria" tvg-logo="",jö.live
+https://edge07.stream.maxfive.com/max5-joelive
+#EXTINF:-1 group-title="Austria" tvg-logo="",Radio Flamingo
+https://live.antenne.at/rf
+#EXTINF:-1 group-title="Austria" tvg-logo="",Technikum Gold
+https://stream.radiotechnikum.at/TECHGOLD
 #EXTINF:-1 group-title="Barbados" tvg-logo="",Cita FM 90.1
 https://cast1.asurahosting.com/proxy/daniel26/stream
 #EXTINF:-1 group-title="Belgium" tvg-logo="",Nostalgie
@@ -21,8 +33,18 @@ https://audiotainment-sw.streamabc.net/atsw-oneworldradio-mp3-128-3777062
 https://28553.live.streamtheworld.com/OWR_DAYBREAK.mp3
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e2/One_World_Radio_%282019-.n.v.%29.png",One World Radio Tomorrowland Anthems
 https://25633.live.streamtheworld.com/OWR_DAB.mp3
+#EXTINF:-1 group-title="Belgium" tvg-logo="",Zen FM
+https://25633.live.streamtheworld.com/TOPZEN.mp3
+#EXTINF:-1 group-title="Benin" tvg-logo="",Radio Frissons 95.2 Cotonou
+https://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3
+#EXTINF:-1 group-title="Bhutan" tvg-logo="",BBS1
+https://radio.bbs.bt/mix-ch
+#EXTINF:-1 group-title="Bhutan" tvg-logo="",BBS2
+https://radio.bbs.bt/dz-ch
 #EXTINF:-1 group-title="Brazil" tvg-logo="",Rádio Cidade FM
 https://server2.webradios.com.br:19214/9214
+#EXTINF:-1 group-title="Brazil" tvg-logo="",Radio Haragano
+https://casthttps1.suaradionanet.net/13175/stream
 #EXTINF:-1 group-title="Brazil" tvg-logo="",Radio Omega
 https://webradio.amsolution.com.br/radio/8000/omega
 #EXTINF:-1 group-title="Chile" tvg-logo="",Radio Nuevos Vientos
@@ -79,6 +101,8 @@ https://rozhlas.stream/radio_prague_int_high.aac
 https://icecast2.play.cz/proglas128
 #EXTINF:-1 group-title="Czech Republic" tvg-logo="",Radio Wave
 https://rozhlas.stream/radio_wave_high.aac
+#EXTINF:-1 group-title="Egypt" tvg-logo="",Radio Sotak
+https://radio.radiosotak.com/sotak_mp3
 #EXTINF:-1 group-title="Europe" tvg-logo="",ESC Radio
 https://icepool.silvacast.com/ESCRADIO.mp3
 #EXTINF:-1 group-title="Europe" tvg-logo="",Refugee Radio Network
@@ -97,6 +121,8 @@ https://lorfm.ice.infomaniak.ch/lorfm-128.mp3
 https://streaming.nrjaudio.fm/oua8a3w2dqao
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ
 https://streaming.nrjaudio.fm/ouj3jtnxeb5p
+#EXTINF:-1 group-title="France" tvg-logo="",NRJ Banger Hits
+https://streaming.nrjaudio.fm/ou2qn4pw5hs7
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ David Guetta
 https://streaming.nrjaudio.fm/ou2j8jpw5hs7
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ EDM
@@ -105,10 +131,18 @@ https://streaming.nrjaudio.fm/ou4wf6htd2ko
 https://streaming.nrjaudio.fm/ou5eorirv93h
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ Hitlist
 https://streaming.nrjaudio.fm/ougodsrb92oc
+#EXTINF:-1 group-title="France" tvg-logo="",NRJ Hits
+https://streaming.nrjaudio.fm/ouo6rb7nfibk
+#EXTINF:-1 group-title="France" tvg-logo="",NRJ Hits 2025
+https://streaming.nrjaudio.fm/ou76o5f3s5gi
+#EXTINF:-1 group-title="France" tvg-logo="",NRJ Hits XXL
+https://streaming.nrjaudio.fm/ouw864sk6j4d
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ Made in France
 https://streaming.nrjaudio.fm/ouqueyoeo8pn
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ New Hits Friday
 https://streaming.nrjaudio.fm/ou8vstgk7oiu
+#EXTINF:-1 group-title="France" tvg-logo="",NRJ Taylor Swift
+https://streaming.nrjaudio.fm/ou62ybxp336f
 #EXTINF:-1 group-title="France" tvg-logo="",NRJ Urban Hits
 https://streaming.nrjaudio.fm/ouqupqyoeo8p
 #EXTINF:-1 group-title="France" tvg-logo="",Rire et Chansons
@@ -175,8 +209,18 @@ https://edge59.streamonkey.net/energy-digital
 https://ffn.stream03.radiohost.de/energybremen_mp3-192
 #EXTINF:-1 group-title="Germany" tvg-logo="",Energy Christmas Hits
 https://edge13.streamonkey.net/energy-christmashits
+#EXTINF:-1 group-title="Germany" tvg-logo="",Energy Dance
+https://edge09.streamonkey.net/energy-dance
+#EXTINF:-1 group-title="Germany" tvg-logo="",Energy Disney Hits
+https://edge09.streamonkey.net/energy-disneyhits
 #EXTINF:-1 group-title="Germany" tvg-logo="",Energy Extravadance
 https://streaming.nrjaudio.fm/oujyaknxeb5p
+#EXTINF:-1 group-title="Germany" tvg-logo="",Energy Hits Remix
+https://streaming.nrjaudio.fm/oug77irb92oc
+#EXTINF:-1 group-title="Germany" tvg-logo="",Energy K-Pop
+https://edge15.streamonkey.net/energy-kpop
+#EXTINF:-1 group-title="Germany" tvg-logo="",Energy Love
+https://streaming.nrjaudio.fm/oubqhhj25zuw
 #EXTINF:-1 group-title="Germany" tvg-logo="",Energy Made in Germany
 https://edge11.streamonkey.net/energy-madeingermany
 #EXTINF:-1 group-title="Germany" tvg-logo="",Energy Sachsen
@@ -285,6 +329,8 @@ http://stream.mercyradio.eu/mercyradio.mp3
 https://oxygenmusic.hu:8443/ozonefm_128
 #EXTINF:-1 group-title="Hungary" tvg-logo="",Rádió 1 Debrecen
 https://icast.connectmedia.hu/5219/live.mp3
+#EXTINF:-1 group-title="Iraq" tvg-logo="",Welat FM
+https://rasti.out.airtime.pro/rasti_a
 #EXTINF:-1 group-title="Italy" tvg-logo="",Radio Gamma 5
 https://ice05.fluidstream.net/fluid0510.mp3
 #EXTINF:-1 group-title="Italy" tvg-logo="",RTL 102.5
@@ -295,38 +341,50 @@ https://server-26.stream-server.nl:8632/stream
 https://centova.radioservers.biz/proxy/voicefm/live
 #EXTINF:-1 group-title="Paraguay" tvg-logo="",Integración 104.3 FM
 https://proxy01.servidorenlinea.net/cdehosting/8022/;
-#EXTINF:-1 group-title="Poland" tvg-logo="",RMF FM
-https://rs103-krk.rmfstream.pl/RMFFM48
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET
+#EXTINF:-1 group-title="Poland" tvg-logo="",Eska2 Warszawa
+https://ic2.smcdn.pl/1380-2.aac
+#EXTINF:-1 group-title="Poland" tvg-logo="",Eska Rock
+https://radio.stream.smcdn.pl/timeradio-p/5380-1.aac/playlist.m3u8
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio Eska Warszawa
+https://radio.stream.smcdn.pl/timeradio-p/2380-1.aac/playlist.m3u8
+#EXTINF:-1 group-title="Poland" tvg-logo="",Radio RMF24
+https://rs103-krk.rmfstream.pl/RMF24
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET
 https://21633.live.streamtheworld.com/RADIO_ZET.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET 80
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET 80
 https://zt03.cdn.eurozet.pl/ZET080.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET 90
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET 90
 https://zt03.cdn.eurozet.pl/ZET090.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET 2000
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET 2000
 https://zt03.cdn.eurozet.pl/ZET200.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Dance
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET Dance
 https://zt03.cdn.eurozet.pl/ZETDAN.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Dla Dzieci
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET Dla Dzieci
 https://zt01.cdn.eurozet.pl/ZETKID.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Impreza
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET Impreza
 https://zt03.cdn.eurozet.pl/ZETPAR.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Kolędi
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET Kolędi
 https://zt02.cdn.eurozet.pl/ZETKOL.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Latino
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET Latino
 https://ch01.cdn.eurozet.pl/ZETLTN.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Live
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET Live
 https://zt03.cdn.eurozet.pl/ZETLIV.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Love
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET Love
 https://zt03.cdn.eurozet.pl/ZETLOV.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Na Rower
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET Na Rower
 https://zt03.cdn.eurozet.pl/ZETNAR.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Na Święta
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET Na Święta
 https://zt03.cdn.eurozet.pl/ZETSWI.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Po Polsku
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET Po Polsku
 https://zt03.cdn.eurozet.pl/ZETPL1.mp3
-#EXTINF:-1 group-title="Poland" tvg-logo="",Radio ZET Same Hity
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/a/a2/Radio_Zet_%282017-.n.v.%29.png",Radio ZET Same Hity
 https://zt03.cdn.eurozet.pl/ZETHIT.mp3
+#EXTINF:-1 group-title="Poland" tvg-logo="",RMF Classic
+https://rs9-krk2.rmfstream.pl/RMFCLASSIC48
+#EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/3/3e/RMF_2023.png",RMF FM
+https://rs103-krk.rmfstream.pl/RMFFM48
+#EXTINF:-1 group-title="Poland" tvg-logo="",RMF Maxx
+https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48
 #EXTINF:-1 group-title="Poland" tvg-logo="",Slonskie Radio Hitmix
 https://s1.slotex.pl:7294/stream/1/
 #EXTINF:-1 group-title="Portugal" tvg-logo="",Futura
@@ -445,6 +503,12 @@ https://stream.funradio.sk:8000/summer128.mp3
 https://stream.funradio.sk:8000/milenialky128.mp3
 #EXTINF:-1 group-title="Slovakia" tvg-logo="",Radio KIKS
 https://online.radiokiks.sk:8000/kiks_hq.mp3
+#EXTINF:-1 group-title="Slovakia" tvg-logo="",Rádio _FM
+https://icecast.stv.livebox.sk/fm_128.mp3
+#EXTINF:-1 group-title="Slovakia" tvg-logo="",Rádio Devín
+https://icecast.stv.livebox.sk/devin_128.mp3
+#EXTINF:-1 group-title="Slovakia" tvg-logo="",Rádio Slovensko
+https://icecast.stv.livebox.sk/slovensko_128.mp3
 #EXTINF:-1 group-title="Spain" tvg-logo="",Balearic Grooves
 https://str3.openstream.co/706
 #EXTINF:-1 group-title="Spain" tvg-logo="",Cool Chill House
@@ -699,6 +763,10 @@ https://stream.radiocaroline.net/rc128/;
 https://stream.radiocaroline.net/fb128/;
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Radio X
 https://media-ssl.musicradio.com/RadioXUK
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Radio X 00s
+https://media-ssl.musicradio.com/RadioX00s
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="",Radio X 90s
+https://media-ssl.musicradio.com/RadioX90s
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Radio X Best of British
 https://media-ssl.musicradio.com/RadioX-M-BestOfBritish
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="",Smooth 70s
@@ -725,6 +793,8 @@ https://listen.181fm.com/181-comedy_128k.mp3
 https://listen.181fm.com/181-energy98_128k.mp3
 #EXTINF:-1 group-title="United States" tvg-logo="",181.fm Studio 181
 https://listen.181fm.com/181-ball_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-logo="",181.fm Techno Club
+https://listen.181fm.com/181-vibe_128k.mp3
 #EXTINF:-1 group-title="United States" tvg-logo="",181.fm UK Top 40
 https://listen.181fm.com/181-uktop40_128k.mp3
 #EXTINF:-1 group-title="United States" tvg-logo="",Afrobeats Jazz
